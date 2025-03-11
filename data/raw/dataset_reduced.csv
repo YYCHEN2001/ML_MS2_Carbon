@@ -1,0 +1,583 @@
+Index,Name,Z,Period,Group,EN,CR,CM_type,CM_morph,MS2_morph,CP_morph,SSA,C,Cation,Anion,PW,CD,Cs,Ref,Ref_index
+4,VS2,23,4,5,1.63,1.44,0,0,nanosheets,0,5.5 ,6.0 ,K,OH,0.50 ,1.00 ,152.00 ,10.1039/C5RA27155J,2
+5,VS2,23,4,5,1.63,1.44,0,0,nanosheets,0,5.5 ,6.0 ,K,OH,0.50 ,2.00 ,145.00 ,10.1039/C5RA27155J,2
+6,VS2,23,4,5,1.63,1.44,0,0,nanosheets,0,5.5 ,6.0 ,K,OH,0.50 ,5.00 ,136.00 ,10.1039/C5RA27155J,2
+7,VS2,23,4,5,1.63,1.44,0,0,nanosheets,0,5.5 ,6.0 ,K,OH,0.50 ,10.00 ,120.00 ,10.1039/C5RA27155J,2
+8,VS2,23,4,5,1.63,1.44,0,0,nanosheets,0,5.5 ,6.0 ,K,OH,0.50 ,15.00 ,90.00 ,10.1039/C5RA27155J,2
+9,VS2,23,4,5,1.63,1.44,0,0,irregular nanoparticles,0,15.6 ,2.0 ,K,OH,0.55 ,0.20 ,320.70 ,10.1016/j.ceramint.2022.03.277,3
+10,VS2,23,4,5,1.63,1.44,0,0,irregular nanoparticles,0,15.6 ,2.0 ,K,OH,0.55 ,0.50 ,289.90 ,10.1016/j.ceramint.2022.03.277,3
+11,VS2,23,4,5,1.63,1.44,0,0,irregular nanoparticles,0,15.6 ,2.0 ,K,OH,0.55 ,1.00 ,269.70 ,10.1016/j.ceramint.2022.03.277,3
+12,VS2,23,4,5,1.63,1.44,0,0,irregular nanoparticles,0,15.6 ,2.0 ,K,OH,0.55 ,2.00 ,238.40 ,10.1016/j.ceramint.2022.03.277,3
+13,VS2,23,4,5,1.63,1.44,0,0,irregular nanoparticles,0,15.6 ,2.0 ,K,OH,0.55 ,4.00 ,198.70 ,10.1016/j.ceramint.2022.03.277,3
+14,VS2,23,4,5,1.63,1.44,0,0,irregular nanoparticles,0,15.6 ,2.0 ,K,OH,0.55 ,10.00 ,155.80 ,10.1016/j.ceramint.2022.03.277,3
+15,VS2-NC,23,4,5,1.63,1.44,derived carbon,3D porous,irregular nanoparticles,embedded,69.7 ,2.0 ,K,OH,0.55 ,0.20 ,836.70 ,10.1016/j.ceramint.2022.03.277,3
+16,VS2-NC,23,4,5,1.63,1.44,derived carbon,3D porous,irregular nanoparticles,embedded,69.7 ,2.0 ,K,OH,0.55 ,0.50 ,789.80 ,10.1016/j.ceramint.2022.03.277,3
+17,VS2-NC,23,4,5,1.63,1.44,derived carbon,3D porous,irregular nanoparticles,embedded,69.7 ,2.0 ,K,OH,0.55 ,1.00 ,702.20 ,10.1016/j.ceramint.2022.03.277,3
+18,VS2-NC,23,4,5,1.63,1.44,derived carbon,3D porous,irregular nanoparticles,embedded,69.7 ,2.0 ,K,OH,0.55 ,2.00 ,616.50 ,10.1016/j.ceramint.2022.03.277,3
+19,VS2-NC,23,4,5,1.63,1.44,derived carbon,3D porous,irregular nanoparticles,embedded,69.7 ,2.0 ,K,OH,0.55 ,4.00 ,468.90 ,10.1016/j.ceramint.2022.03.277,3
+20,VS2-NC,23,4,5,1.63,1.44,derived carbon,3D porous,irregular nanoparticles,embedded,69.7 ,2.0 ,K,OH,0.55 ,10.00 ,407.30 ,10.1016/j.ceramint.2022.03.277,3
+21,VS2/G,23,4,5,1.63,1.44,Graphene,flower-like,irregular nanoparticles,supported,32.3 ,2.0 ,K,OH,0.50 ,1.00 ,211.00 ,10.1002/ente.201700225,4
+22,VS2/G,23,4,5,1.63,1.44,Graphene,flower-like,irregular nanoparticles,supported,32.3 ,2.0 ,K,OH,0.50 ,2.00 ,202.56 ,10.1002/ente.201700225,4
+23,VS2/G,23,4,5,1.63,1.44,Graphene,flower-like,irregular nanoparticles,supported,32.3 ,2.0 ,K,OH,0.50 ,10.00 ,170.91 ,10.1002/ente.201700225,4
+24,VS2/G,23,4,5,1.63,1.44,Graphene,flower-like,irregular nanoparticles,supported,32.3 ,2.0 ,K,OH,0.50 ,20.00 ,135.04 ,10.1002/ente.201700225,4
+25,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,4.0 ,6.0 ,K,OH,0.55 ,0.50 ,163.00 ,10.1016/j.ceramint.2015.11.178,5
+26,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,4.0 ,6.0 ,K,OH,0.55 ,1.00 ,92.00 ,10.1016/j.ceramint.2015.11.178,5
+27,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,4.0 ,6.0 ,K,OH,0.55 ,2.00 ,82.00 ,10.1016/j.ceramint.2015.11.178,5
+28,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,4.0 ,6.0 ,K,OH,0.55 ,3.00 ,78.00 ,10.1016/j.ceramint.2015.11.178,5
+29,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,4.0 ,6.0 ,K,OH,0.55 ,5.00 ,75.00 ,10.1016/j.ceramint.2015.11.178,5
+30,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,4.0 ,6.0 ,K,OH,0.55 ,10.00 ,74.00 ,10.1016/j.ceramint.2015.11.178,5
+31,GA-FeS2,26,4,8,1.83,1.24,RGO,2D nanosheets,flower-like clusters,supported,8.4 ,6.0 ,K,OH,0.55 ,0.50 ,312.00 ,10.1016/j.ceramint.2015.11.178,5
+32,GA-FeS2,26,4,8,1.83,1.24,RGO,2D nanosheets,flower-like clusters,supported,8.4 ,6.0 ,K,OH,0.55 ,1.00 ,288.00 ,10.1016/j.ceramint.2015.11.178,5
+33,GA-FeS2,26,4,8,1.83,1.24,RGO,2D nanosheets,flower-like clusters,supported,8.4 ,6.0 ,K,OH,0.55 ,2.00 ,268.00 ,10.1016/j.ceramint.2015.11.178,5
+34,GA-FeS2,26,4,8,1.83,1.24,RGO,2D nanosheets,flower-like clusters,supported,8.4 ,6.0 ,K,OH,0.55 ,3.00 ,216.00 ,10.1016/j.ceramint.2015.11.178,5
+35,GA-FeS2,26,4,8,1.83,1.24,RGO,2D nanosheets,flower-like clusters,supported,8.4 ,6.0 ,K,OH,0.55 ,5.00 ,200.00 ,10.1016/j.ceramint.2015.11.178,5
+36,GA-FeS2,26,4,8,1.83,1.24,RGO,2D nanosheets,flower-like clusters,supported,8.4 ,6.0 ,K,OH,0.55 ,10.00 ,172.00 ,10.1016/j.ceramint.2015.11.178,5
+42,FeS2/NSG,26,4,8,1.83,1.24,Graphene,2D nanosheets,irregular nanoparticles,supported,218.4 ,6.0 ,K,OH,0.60 ,1.00 ,529.00 ,10.1016/j.matlet.2018.01.135,7
+43,FeS2/NSG,26,4,8,1.83,1.24,Graphene,2D nanosheets,irregular nanoparticles,supported,218.4 ,6.0 ,K,OH,0.60 ,2.00 ,481.00 ,10.1016/j.matlet.2018.01.135,7
+44,FeS2/NSG,26,4,8,1.83,1.24,Graphene,2D nanosheets,irregular nanoparticles,supported,218.4 ,6.0 ,K,OH,0.60 ,5.00 ,443.00 ,10.1016/j.matlet.2018.01.135,7
+45,FeS2/NSG,26,4,8,1.83,1.24,Graphene,2D nanosheets,irregular nanoparticles,supported,218.4 ,6.0 ,K,OH,0.60 ,10.00 ,401.00 ,10.1016/j.matlet.2018.01.135,7
+46,FeS2/NSG,26,4,8,1.83,1.24,Graphene,2D nanosheets,irregular nanoparticles,supported,218.4 ,6.0 ,K,OH,0.60 ,20.00 ,349.00 ,10.1016/j.matlet.2018.01.135,7
+53,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,24.0 ,6.0 ,K,OH,1.00 ,1.00 ,216.00 ,10.1021/acs.energyfuels.3c04078,9
+54,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,24.0 ,6.0 ,K,OH,1.00 ,2.00 ,160.00 ,10.1021/acs.energyfuels.3c04078,9
+55,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,24.0 ,6.0 ,K,OH,1.00 ,3.00 ,140.00 ,10.1021/acs.energyfuels.3c04078,9
+56,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,24.0 ,6.0 ,K,OH,1.00 ,4.00 ,121.00 ,10.1021/acs.energyfuels.3c04078,9
+57,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,24.0 ,6.0 ,K,OH,1.00 ,5.00 ,109.00 ,10.1021/acs.energyfuels.3c04078,9
+58,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,24.0 ,6.0 ,K,OH,1.00 ,7.00 ,86.00 ,10.1021/acs.energyfuels.3c04078,9
+65,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,23.8 ,2.0 ,K,OH,1.10 ,1.00 ,471.00 ,10.1039/C8QI01230J,10
+66,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,23.8 ,2.0 ,K,OH,1.10 ,2.00 ,398.00 ,10.1039/C8QI01230J,10
+67,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,23.8 ,2.0 ,K,OH,1.10 ,3.00 ,369.00 ,10.1039/C8QI01230J,10
+68,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,23.8 ,2.0 ,K,OH,1.10 ,5.00 ,356.00 ,10.1039/C8QI01230J,10
+69,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,23.8 ,2.0 ,K,OH,1.10 ,10.00 ,335.00 ,10.1039/C8QI01230J,10
+70,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,23.8 ,2.0 ,K,OH,1.10 ,15.00 ,321.00 ,10.1039/C8QI01230J,10
+71,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,23.8 ,2.0 ,K,OH,1.10 ,20.00 ,307.00 ,10.1039/C8QI01230J,10
+72,30% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,17.4 ,1.0 ,K,OH,1.00 ,2.00 ,228.00 ,10.1016/j.apsusc.2021.150538,11
+73,30% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,17.4 ,1.0 ,K,OH,1.00 ,4.00 ,170.00 ,10.1016/j.apsusc.2021.150538,11
+74,30% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,17.4 ,1.0 ,K,OH,1.00 ,6.00 ,140.00 ,10.1016/j.apsusc.2021.150538,11
+75,30% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,17.4 ,1.0 ,K,OH,1.00 ,8.00 ,119.00 ,10.1016/j.apsusc.2021.150538,11
+76,30% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,17.4 ,1.0 ,K,OH,1.00 ,10.00 ,91.00 ,10.1016/j.apsusc.2021.150538,11
+77,50% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,27.4 ,1.0 ,K,OH,1.00 ,2.00 ,303.00 ,10.1016/j.apsusc.2021.150538,11
+78,50% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,27.4 ,1.0 ,K,OH,1.00 ,4.00 ,235.00 ,10.1016/j.apsusc.2021.150538,11
+79,50% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,27.4 ,1.0 ,K,OH,1.00 ,6.00 ,210.00 ,10.1016/j.apsusc.2021.150538,11
+80,50% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,27.4 ,1.0 ,K,OH,1.00 ,8.00 ,192.00 ,10.1016/j.apsusc.2021.150538,11
+81,50% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,27.4 ,1.0 ,K,OH,1.00 ,10.00 ,176.00 ,10.1016/j.apsusc.2021.150538,11
+82,80% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,11.0 ,1.0 ,K,OH,1.00 ,2.00 ,105.00 ,10.1016/j.apsusc.2021.150538,11
+83,80% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,11.0 ,1.0 ,K,OH,1.00 ,4.00 ,84.00 ,10.1016/j.apsusc.2021.150538,11
+84,80% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,11.0 ,1.0 ,K,OH,1.00 ,6.00 ,74.00 ,10.1016/j.apsusc.2021.150538,11
+85,80% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,11.0 ,1.0 ,K,OH,1.00 ,8.00 ,63.00 ,10.1016/j.apsusc.2021.150538,11
+86,80% FeS2/3DPC,26,4,8,1.83,1.24,derived carbon,3D networks,irregular nanoparticles,embedded,11.0 ,1.0 ,K,OH,1.00 ,10.00 ,60.00 ,10.1016/j.apsusc.2021.150538,11
+87,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,3.6 ,2.0 ,K,OH,1.10 ,3.00 ,459.00 ,10.1039/C8TA05818K,12
+88,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,3.6 ,2.0 ,K,OH,1.10 ,5.00 ,372.00 ,10.1039/C8TA05818K,12
+89,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,3.6 ,2.0 ,K,OH,1.10 ,10.00 ,309.00 ,10.1039/C8TA05818K,12
+90,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,3.6 ,2.0 ,K,OH,1.10 ,15.00 ,299.00 ,10.1039/C8TA05818K,12
+91,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,3.6 ,2.0 ,K,OH,1.10 ,20.00 ,289.00 ,10.1039/C8TA05818K,12
+92,FeS2,26,4,8,1.83,1.24,0,0,irregular nanoparticles,0,3.6 ,2.0 ,K,OH,1.10 ,30.00 ,269.00 ,10.1039/C8TA05818K,12
+93,FeS2/GNS,26,4,8,1.83,1.24,Graphene,2D nanosheets,irregular nanoparticles,supported,135.0 ,2.0 ,K,OH,1.10 ,3.00 ,721.00 ,10.1039/C8TA05818K,12
+94,FeS2/GNS,26,4,8,1.83,1.24,Graphene,2D nanosheets,irregular nanoparticles,supported,135.0 ,2.0 ,K,OH,1.10 ,5.00 ,650.00 ,10.1039/C8TA05818K,12
+95,FeS2/GNS,26,4,8,1.83,1.24,Graphene,2D nanosheets,irregular nanoparticles,supported,135.0 ,2.0 ,K,OH,1.10 ,10.00 ,621.00 ,10.1039/C8TA05818K,12
+96,FeS2/GNS,26,4,8,1.83,1.24,Graphene,2D nanosheets,irregular nanoparticles,supported,135.0 ,2.0 ,K,OH,1.10 ,15.00 ,617.00 ,10.1039/C8TA05818K,12
+97,FeS2/GNS,26,4,8,1.83,1.24,Graphene,2D nanosheets,irregular nanoparticles,supported,135.0 ,2.0 ,K,OH,1.10 ,20.00 ,614.00 ,10.1039/C8TA05818K,12
+98,FeS2/GNS,26,4,8,1.83,1.24,Graphene,2D nanosheets,irregular nanoparticles,supported,135.0 ,2.0 ,K,OH,1.10 ,30.00 ,589.00 ,10.1039/C8TA05818K,12
+99,PFSG,26,4,8,1.83,1.24,GO,2D nanosheets,rods,supported,165.0 ,2.0 ,K,OH,1.10 ,3.00 ,769.00 ,10.1016/j.jallcom.2020.157114,13
+100,PFSG,26,4,8,1.83,1.24,GO,2D nanosheets,rods,supported,165.0 ,2.0 ,K,OH,1.10 ,5.00 ,708.00 ,10.1016/j.jallcom.2020.157114,13
+101,PFSG,26,4,8,1.83,1.24,GO,2D nanosheets,rods,supported,165.0 ,2.0 ,K,OH,1.10 ,10.00 ,637.00 ,10.1016/j.jallcom.2020.157114,13
+102,PFSG,26,4,8,1.83,1.24,GO,2D nanosheets,rods,supported,165.0 ,2.0 ,K,OH,1.10 ,15.00 ,587.00 ,10.1016/j.jallcom.2020.157114,13
+103,PFSG,26,4,8,1.83,1.24,GO,2D nanosheets,rods,supported,165.0 ,2.0 ,K,OH,1.10 ,20.00 ,570.00 ,10.1016/j.jallcom.2020.157114,13
+104,PFSG,26,4,8,1.83,1.24,GO,2D nanosheets,rods,supported,165.0 ,2.0 ,K,OH,1.10 ,30.00 ,555.00 ,10.1016/j.jallcom.2020.157114,13
+105,CoS2,27,4,9,1.88,1.18,0,0,hollow spheres,0,127.6 ,2.0 ,K,OH,0.50 ,1.00 ,1301.00 ,10.1002/adfm.201303273,14
+106,CoS2,27,4,9,1.88,1.18,0,0,hollow spheres,0,127.6 ,2.0 ,K,OH,0.50 ,2.50 ,1073.00 ,10.1002/adfm.201303273,14
+107,CoS2,27,4,9,1.88,1.18,0,0,hollow spheres,0,127.6 ,2.0 ,K,OH,0.50 ,5.00 ,883.00 ,10.1002/adfm.201303273,14
+108,CoS2,27,4,9,1.88,1.18,0,0,hollow spheres,0,127.6 ,2.0 ,K,OH,0.50 ,10.00 ,650.00 ,10.1002/adfm.201303273,14
+109,CoS2,27,4,9,1.88,1.18,0,0,hollow spheres,0,127.6 ,2.0 ,K,OH,0.50 ,20.00 ,450.00 ,10.1002/adfm.201303273,14
+110,CoS2,27,4,9,1.88,1.18,0,0,double shell spheres,0,98.3 ,2.0 ,K,OH,0.50 ,1.00 ,1180.00 ,10.1002/adfm.201303273,14
+111,CoS2,27,4,9,1.88,1.18,0,0,double shell spheres,0,98.3 ,2.0 ,K,OH,0.50 ,2.50 ,952.00 ,10.1002/adfm.201303273,14
+112,CoS2,27,4,9,1.88,1.18,0,0,double shell spheres,0,98.3 ,2.0 ,K,OH,0.50 ,5.00 ,733.00 ,10.1002/adfm.201303273,14
+113,CoS2,27,4,9,1.88,1.18,0,0,double shell spheres,0,98.3 ,2.0 ,K,OH,0.50 ,10.00 ,531.00 ,10.1002/adfm.201303273,14
+114,CoS2,27,4,9,1.88,1.18,0,0,double shell spheres,0,98.3 ,2.0 ,K,OH,0.50 ,20.00 ,339.00 ,10.1002/adfm.201303273,14
+115,CoS2,27,4,9,1.88,1.18,0,0,yolk-shell spheres,0,65.1 ,2.0 ,K,OH,0.50 ,1.00 ,1079.00 ,10.1002/adfm.201303273,14
+116,CoS2,27,4,9,1.88,1.18,0,0,yolk-shell spheres,0,65.1 ,2.0 ,K,OH,0.50 ,2.50 ,883.00 ,10.1002/adfm.201303273,14
+117,CoS2,27,4,9,1.88,1.18,0,0,yolk-shell spheres,0,65.1 ,2.0 ,K,OH,0.50 ,5.00 ,681.00 ,10.1002/adfm.201303273,14
+118,CoS2,27,4,9,1.88,1.18,0,0,yolk-shell spheres,0,65.1 ,2.0 ,K,OH,0.50 ,10.00 ,471.00 ,10.1002/adfm.201303273,14
+119,CoS2,27,4,9,1.88,1.18,0,0,yolk-shell spheres,0,65.1 ,2.0 ,K,OH,0.50 ,20.00 ,271.00 ,10.1002/adfm.201303273,14
+120,CoS2,27,4,9,1.88,1.18,0,0,spheres,0,41.5 ,2.0 ,K,OH,0.50 ,1.00 ,899.00 ,10.1002/adfm.201303273,14
+121,CoS2,27,4,9,1.88,1.18,0,0,spheres,0,41.5 ,2.0 ,K,OH,0.50 ,2.50 ,733.00 ,10.1002/adfm.201303273,14
+122,CoS2,27,4,9,1.88,1.18,0,0,spheres,0,41.5 ,2.0 ,K,OH,0.50 ,5.00 ,583.00 ,10.1002/adfm.201303273,14
+123,CoS2,27,4,9,1.88,1.18,0,0,spheres,0,41.5 ,2.0 ,K,OH,0.50 ,10.00 ,388.00 ,10.1002/adfm.201303273,14
+124,CoS2,27,4,9,1.88,1.18,0,0,spheres,0,41.5 ,2.0 ,K,OH,0.50 ,20.00 ,221.00 ,10.1002/adfm.201303273,14
+125,CoS2,27,4,9,1.88,1.18,0,0,bulk,0,3.2 ,2.0 ,K,OH,0.50 ,1.00 ,624.00 ,10.1002/adfm.201303273,14
+126,CoS2,27,4,9,1.88,1.18,0,0,bulk,0,3.2 ,2.0 ,K,OH,0.50 ,2.50 ,495.00 ,10.1002/adfm.201303273,14
+127,CoS2,27,4,9,1.88,1.18,0,0,bulk,0,3.2 ,2.0 ,K,OH,0.50 ,5.00 ,345.00 ,10.1002/adfm.201303273,14
+128,CoS2,27,4,9,1.88,1.18,0,0,bulk,0,3.2 ,2.0 ,K,OH,0.50 ,10.00 ,212.00 ,10.1002/adfm.201303273,14
+129,CoS2,27,4,9,1.88,1.18,0,0,bulk,0,3.2 ,2.0 ,K,OH,0.50 ,20.00 ,93.00 ,10.1002/adfm.201303273,14
+130,CoS2,27,4,9,1.88,1.18,0,0,octahedron,0,17.5 ,2.0 ,K,OH,0.60 ,1.00 ,236.50 ,10.1016/j.electacta.2014.05.118,15
+131,CoS2,27,4,9,1.88,1.18,0,0,octahedron,0,17.5 ,2.0 ,K,OH,0.60 ,2.00 ,225.30 ,10.1016/j.electacta.2014.05.118,15
+132,CoS2,27,4,9,1.88,1.18,0,0,octahedron,0,17.5 ,2.0 ,K,OH,0.60 ,5.00 ,203.30 ,10.1016/j.electacta.2014.05.118,15
+133,CoS2,27,4,9,1.88,1.18,0,0,octahedron,0,17.5 ,2.0 ,K,OH,0.60 ,10.00 ,175.00 ,10.1016/j.electacta.2014.05.118,15
+134,CoS2,27,4,9,1.88,1.18,0,0,octahedron,0,17.5 ,2.0 ,K,OH,0.60 ,15.00 ,152.50 ,10.1016/j.electacta.2014.05.118,15
+135,CoS2,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,21.0 ,2.0 ,K,OH,0.40 ,2.00 ,624.10 ,10.1039/C5RA25665H,16
+136,CoS2/RGO-2,27,4,9,1.88,1.18,RGO,2D nanosheets,irregular nanoparticles,coated,93.0 ,2.0 ,K,OH,0.40 ,2.00 ,929.00 ,10.1039/C5RA25665H,16
+137,CoS2/RGO-2,27,4,9,1.88,1.18,RGO,2D nanosheets,irregular nanoparticles,coated,93.0 ,2.0 ,K,OH,0.40 ,4.00 ,855.00 ,10.1039/C5RA25665H,16
+138,CoS2/RGO-2,27,4,9,1.88,1.18,RGO,2D nanosheets,irregular nanoparticles,coated,93.0 ,2.0 ,K,OH,0.40 ,8.00 ,798.00 ,10.1039/C5RA25665H,16
+139,CoS2/RGO-2,27,4,9,1.88,1.18,RGO,2D nanosheets,irregular nanoparticles,coated,93.0 ,2.0 ,K,OH,0.40 ,14.00 ,713.00 ,10.1039/C5RA25665H,16
+140,CoS2/RGO-2,27,4,9,1.88,1.18,RGO,2D nanosheets,irregular nanoparticles,coated,93.0 ,2.0 ,K,OH,0.40 ,20.00 ,677.00 ,10.1039/C5RA25665H,16
+141,CoS2@ETA-2,27,4,9,1.88,1.18,0,0,flower-like clusters,0,66.4 ,2.0 ,K,OH,0.60 ,1.00 ,718.70 ,10.1016/j.electacta.2014.10.069,17
+142,CoS2@ETA-2,27,4,9,1.88,1.18,0,0,flower-like clusters,0,66.4 ,2.0 ,K,OH,0.60 ,2.00 ,696.70 ,10.1016/j.electacta.2014.10.069,17
+143,CoS2@ETA-2,27,4,9,1.88,1.18,0,0,flower-like clusters,0,66.4 ,2.0 ,K,OH,0.60 ,5.00 ,620.80 ,10.1016/j.electacta.2014.10.069,17
+144,CoS2@ETA-2,27,4,9,1.88,1.18,0,0,flower-like clusters,0,66.4 ,2.0 ,K,OH,0.60 ,10.00 ,536.70 ,10.1016/j.electacta.2014.10.069,17
+145,CoS2@ETA-2,27,4,9,1.88,1.18,0,0,flower-like clusters,0,66.4 ,2.0 ,K,OH,0.60 ,20.00 ,476.70 ,10.1016/j.electacta.2014.10.069,17
+146,CoS2@ETA-4,27,4,9,1.88,1.18,0,0,flower-like clusters,0,46.2 ,2.0 ,K,OH,0.60 ,1.00 ,554.00 ,10.1016/j.electacta.2014.10.069,17
+147,CoS2@ETA-4,27,4,9,1.88,1.18,0,0,flower-like clusters,0,46.2 ,2.0 ,K,OH,0.60 ,2.00 ,540.00 ,10.1016/j.electacta.2014.10.069,17
+148,CoS2@ETA-4,27,4,9,1.88,1.18,0,0,flower-like clusters,0,46.2 ,2.0 ,K,OH,0.60 ,5.00 ,497.00 ,10.1016/j.electacta.2014.10.069,17
+149,CoS2@ETA-4,27,4,9,1.88,1.18,0,0,flower-like clusters,0,46.2 ,2.0 ,K,OH,0.60 ,10.00 ,469.00 ,10.1016/j.electacta.2014.10.069,17
+150,CoS2@ETA-4,27,4,9,1.88,1.18,0,0,flower-like clusters,0,46.2 ,2.0 ,K,OH,0.60 ,20.00 ,417.00 ,10.1016/j.electacta.2014.10.069,17
+151,CoS2@ETA-1,27,4,9,1.88,1.18,0,0,spheres,0,3.3 ,2.0 ,K,OH,0.60 ,1.00 ,180.00 ,10.1016/j.electacta.2014.10.069,17
+152,CoS2@ETA-1,27,4,9,1.88,1.18,0,0,spheres,0,3.3 ,2.0 ,K,OH,0.60 ,2.00 ,167.00 ,10.1016/j.electacta.2014.10.069,17
+153,CoS2@ETA-1,27,4,9,1.88,1.18,0,0,spheres,0,3.3 ,2.0 ,K,OH,0.60 ,5.00 ,143.00 ,10.1016/j.electacta.2014.10.069,17
+154,CoS2@ETA-1,27,4,9,1.88,1.18,0,0,spheres,0,3.3 ,2.0 ,K,OH,0.60 ,10.00 ,115.00 ,10.1016/j.electacta.2014.10.069,17
+155,CoS2@ETA-1,27,4,9,1.88,1.18,0,0,spheres,0,3.3 ,2.0 ,K,OH,0.60 ,20.00 ,78.00 ,10.1016/j.electacta.2014.10.069,17
+156,CoS2 NCs,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,29.3 ,2.0 ,K,OH,0.65 ,0.50 ,654.00 ,10.1039/C4RA08614G,18
+157,CoS2 NCs,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,29.3 ,2.0 ,K,OH,0.65 ,1.00 ,595.00 ,10.1039/C4RA08614G,18
+158,CoS2 NCs,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,29.3 ,2.0 ,K,OH,0.65 ,5.00 ,499.00 ,10.1039/C4RA08614G,18
+159,Co-S-200,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,36.3 ,6.0 ,K,OH,0.40 ,0.50 ,996.16 ,10.1007/s11581-017-1991-3,19
+160,Co-S-200,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,36.3 ,6.0 ,K,OH,0.40 ,1.00 ,986.95 ,10.1007/s11581-017-1991-3,19
+161,Co-S-200,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,36.3 ,6.0 ,K,OH,0.40 ,2.00 ,979.90 ,10.1007/s11581-017-1991-3,19
+162,Co-S-200,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,36.3 ,6.0 ,K,OH,0.40 ,3.00 ,972.75 ,10.1007/s11581-017-1991-3,19
+163,Co-S-200,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,36.3 ,6.0 ,K,OH,0.40 ,4.00 ,966.00 ,10.1007/s11581-017-1991-3,19
+164,Co-S-200,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,36.3 ,6.0 ,K,OH,0.40 ,5.00 ,957.50 ,10.1007/s11581-017-1991-3,19
+165,Co-S-280,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,13.1 ,6.0 ,K,OH,0.40 ,0.50 ,354.13 ,10.1007/s11581-017-1991-3,19
+166,Co-S-280,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,13.1 ,6.0 ,K,OH,0.40 ,1.00 ,342.50 ,10.1007/s11581-017-1991-3,19
+167,Co-S-280,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,13.1 ,6.0 ,K,OH,0.40 ,2.00 ,321.70 ,10.1007/s11581-017-1991-3,19
+168,Co-S-280,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,13.1 ,6.0 ,K,OH,0.40 ,3.00 ,307.70 ,10.1007/s11581-017-1991-3,19
+169,Co-S-280,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,13.1 ,6.0 ,K,OH,0.40 ,4.00 ,294.50 ,10.1007/s11581-017-1991-3,19
+170,Co-S-280,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,13.1 ,6.0 ,K,OH,0.40 ,5.00 ,289.50 ,10.1007/s11581-017-1991-3,19
+171,CoS2,27,4,9,1.88,1.18,0,0,hollow cubes,0,113.9 ,2.0 ,K,OH,0.50 ,1.00 ,936.00 ,10.1016/j.jelechem.2019.01.049,20
+172,CoS2,27,4,9,1.88,1.18,0,0,hollow cubes,0,113.9 ,2.0 ,K,OH,0.50 ,2.00 ,883.20 ,10.1016/j.jelechem.2019.01.049,20
+173,CoS2,27,4,9,1.88,1.18,0,0,hollow cubes,0,113.9 ,2.0 ,K,OH,0.50 ,5.00 ,810.00 ,10.1016/j.jelechem.2019.01.049,20
+174,CoS2,27,4,9,1.88,1.18,0,0,hollow cubes,0,113.9 ,2.0 ,K,OH,0.50 ,10.00 ,746.00 ,10.1016/j.jelechem.2019.01.049,20
+175,CoS2,27,4,9,1.88,1.18,0,0,hollow cubes,0,113.9 ,2.0 ,K,OH,0.50 ,20.00 ,686.40 ,10.1016/j.jelechem.2019.01.049,20
+176,CoS2,27,4,9,1.88,1.18,0,0,cubes,0,67.1 ,3.0 ,K,OH,0.45 ,1.00 ,426.60 ,10.1016/j.jpowsour.2020.227712,21
+177,CoS2,27,4,9,1.88,1.18,0,0,cubes,0,67.1 ,3.0 ,K,OH,0.45 ,10.00 ,404.80 ,10.1016/j.jpowsour.2020.227712,21
+178,CoS2,27,4,9,1.88,1.18,0,0,cubes,0,67.1 ,3.0 ,K,OH,0.45 ,20.00 ,382.70 ,10.1016/j.jpowsour.2020.227712,21
+179,NiS2,28,4,10,1.91,1.17,0,0,nanoparticles,0,201.4 ,3.0 ,K,OH,0.45 ,1.00 ,951.60 ,10.1016/j.jpowsour.2020.227712,21
+180,NiS2,28,4,10,1.91,1.17,0,0,nanoparticles,0,201.4 ,3.0 ,K,OH,0.45 ,2.00 ,809.00 ,10.1016/j.jpowsour.2020.227712,21
+181,NiS2,28,4,10,1.91,1.17,0,0,nanoparticles,0,201.4 ,3.0 ,K,OH,0.45 ,3.00 ,743.00 ,10.1016/j.jpowsour.2020.227712,21
+182,NiS2,28,4,10,1.91,1.17,0,0,nanoparticles,0,201.4 ,3.0 ,K,OH,0.45 ,5.00 ,669.00 ,10.1016/j.jpowsour.2020.227712,21
+183,NiS2,28,4,10,1.91,1.17,0,0,nanoparticles,0,201.4 ,3.0 ,K,OH,0.45 ,10.00 ,553.00 ,10.1016/j.jpowsour.2020.227712,21
+184,NiS2,28,4,10,1.91,1.17,0,0,nanoparticles,0,201.4 ,3.0 ,K,OH,0.45 ,20.00 ,442.00 ,10.1016/j.jpowsour.2020.227712,21
+193,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,58.2 ,2.0 ,K,OH,0.50 ,1.00 ,116.80 ,10.1016/j.jallcom.2018.01.324,23
+194,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,58.2 ,2.0 ,K,OH,0.50 ,2.00 ,102.00 ,10.1016/j.jallcom.2018.01.324,23
+195,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,58.2 ,2.0 ,K,OH,0.50 ,5.00 ,72.00 ,10.1016/j.jallcom.2018.01.324,23
+196,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,58.2 ,2.0 ,K,OH,0.50 ,10.00 ,44.00 ,10.1016/j.jallcom.2018.01.324,23
+201,CoS2,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,51.2 ,2.0 ,K,OH,0.50 ,1.00 ,464.40 ,10.1016/j.jallcom.2018.01.324,23
+202,CoS2,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,51.2 ,2.0 ,K,OH,0.50 ,2.00 ,437.00 ,10.1016/j.jallcom.2018.01.324,23
+203,CoS2,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,51.2 ,2.0 ,K,OH,0.50 ,5.00 ,367.00 ,10.1016/j.jallcom.2018.01.324,23
+204,CoS2,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,51.2 ,2.0 ,K,OH,0.50 ,10.00 ,297.00 ,10.1016/j.jallcom.2018.01.324,23
+205,CoS2/NSC-CNT-p,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,253.8 ,6.0 ,K,OH,0.50 ,1.00 ,653.80 ,10.1016/j.materresbull.2019.04.006,24
+206,CoS2/NSC-CNT-p,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,253.8 ,6.0 ,K,OH,0.50 ,2.00 ,616.40 ,10.1016/j.materresbull.2019.04.006,24
+207,CoS2/NSC-CNT-p,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,253.8 ,6.0 ,K,OH,0.50 ,5.00 ,571.00 ,10.1016/j.materresbull.2019.04.006,24
+208,CoS2/NSC-CNT-p,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,253.8 ,6.0 ,K,OH,0.50 ,7.00 ,560.20 ,10.1016/j.materresbull.2019.04.006,24
+209,CoS2/NSC-CNT-p,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,253.8 ,6.0 ,K,OH,0.50 ,10.00 ,544.20 ,10.1016/j.materresbull.2019.04.006,24
+217,CoS2@C,27,4,9,1.88,1.18,derived carbon,3D porous,nanoparticles,supported,60.3 ,6.0 ,K,OH,0.45 ,1.00 ,574.00 ,10.1016/j.electacta.2022.140604,25
+218,CoS2@C,27,4,9,1.88,1.18,derived carbon,3D porous,nanoparticles,supported,60.3 ,6.0 ,K,OH,0.45 ,2.00 ,444.00 ,10.1016/j.electacta.2022.140604,25
+219,CoS2@C,27,4,9,1.88,1.18,derived carbon,3D porous,nanoparticles,supported,60.3 ,6.0 ,K,OH,0.45 ,3.00 ,358.00 ,10.1016/j.electacta.2022.140604,25
+220,CoS2@C,27,4,9,1.88,1.18,derived carbon,3D porous,nanoparticles,supported,60.3 ,6.0 ,K,OH,0.45 ,5.00 ,278.00 ,10.1016/j.electacta.2022.140604,25
+221,CoS2@C,27,4,9,1.88,1.18,derived carbon,3D porous,nanoparticles,supported,60.3 ,6.0 ,K,OH,0.45 ,10.00 ,188.00 ,10.1016/j.electacta.2022.140604,25
+222,CoS2@C,27,4,9,1.88,1.18,derived carbon,3D porous,nanoparticles,supported,60.3 ,6.0 ,K,OH,0.45 ,15.00 ,156.00 ,10.1016/j.electacta.2022.140604,25
+223,CoS2@C,27,4,9,1.88,1.18,derived carbon,3D porous,nanoparticles,supported,60.3 ,6.0 ,K,OH,0.45 ,20.00 ,133.00 ,10.1016/j.electacta.2022.140604,25
+224,CoS2/MWCNT,27,4,9,1.88,1.18,MWCNT,3D porous,nanosheets,supported,15.7 ,2.0 ,K,OH,0.50 ,2.00 ,535.00 ,10.1016/j.est.2020.102200,26
+225,CoS2/MWCNT,27,4,9,1.88,1.18,MWCNT,3D porous,nanosheets,supported,15.7 ,2.0 ,K,OH,0.50 ,3.00 ,496.00 ,10.1016/j.est.2020.102200,26
+226,CoS2/MWCNT,27,4,9,1.88,1.18,MWCNT,3D porous,nanosheets,supported,15.7 ,2.0 ,K,OH,0.50 ,5.00 ,462.00 ,10.1016/j.est.2020.102200,26
+227,CoS2/MWCNT,27,4,9,1.88,1.18,MWCNT,3D porous,nanosheets,supported,15.7 ,2.0 ,K,OH,0.50 ,10.00 ,324.00 ,10.1016/j.est.2020.102200,26
+228,CNT@CoS2-10,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,109.3 ,6.0 ,K,OH,0.50 ,1.00 ,589.00 ,10.1016/j.jelechem.2021.115570,27
+229,CNT@CoS2-10,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,109.3 ,6.0 ,K,OH,0.50 ,3.00 ,552.00 ,10.1016/j.jelechem.2021.115570,27
+230,CNT@CoS2-10,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,109.3 ,6.0 ,K,OH,0.50 ,5.00 ,530.00 ,10.1016/j.jelechem.2021.115570,27
+231,CNT@CoS2-10,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,109.3 ,6.0 ,K,OH,0.50 ,7.00 ,507.00 ,10.1016/j.jelechem.2021.115570,27
+232,CNT@CoS2-10,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,109.3 ,6.0 ,K,OH,0.50 ,10.00 ,479.00 ,10.1016/j.jelechem.2021.115570,27
+233,CNT@CoS2-20,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,128.4 ,6.0 ,K,OH,0.50 ,1.00 ,822.00 ,10.1016/j.jelechem.2021.115570,27
+234,CNT@CoS2-20,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,128.4 ,6.0 ,K,OH,0.50 ,3.00 ,753.00 ,10.1016/j.jelechem.2021.115570,27
+235,CNT@CoS2-20,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,128.4 ,6.0 ,K,OH,0.50 ,5.00 ,713.00 ,10.1016/j.jelechem.2021.115570,27
+236,CNT@CoS2-20,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,128.4 ,6.0 ,K,OH,0.50 ,7.00 ,682.00 ,10.1016/j.jelechem.2021.115570,27
+237,CNT@CoS2-20,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,128.4 ,6.0 ,K,OH,0.50 ,10.00 ,630.00 ,10.1016/j.jelechem.2021.115570,27
+238,CNT@CoS2-30,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,100.2 ,6.0 ,K,OH,0.50 ,1.00 ,448.00 ,10.1016/j.jelechem.2021.115570,27
+239,CNT@CoS2-30,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,100.2 ,6.0 ,K,OH,0.50 ,3.00 ,427.00 ,10.1016/j.jelechem.2021.115570,27
+240,CNT@CoS2-30,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,100.2 ,6.0 ,K,OH,0.50 ,5.00 ,406.00 ,10.1016/j.jelechem.2021.115570,27
+241,CNT@CoS2-30,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,100.2 ,6.0 ,K,OH,0.50 ,7.00 ,385.00 ,10.1016/j.jelechem.2021.115570,27
+242,CNT@CoS2-30,27,4,9,1.88,1.18,CNT,1D tubes,spheres,interconnected,100.2 ,6.0 ,K,OH,0.50 ,10.00 ,348.00 ,10.1016/j.jelechem.2021.115570,27
+243,CoS2@NDMC,27,4,9,1.88,1.18,derived carbon,rods,nanoparticles,supported,98.1 ,2.0 ,K,OH,0.45 ,1.00 ,1246.00 ,10.1016/j.jallcom.2021.162773,28
+244,CoS2@NDMC,27,4,9,1.88,1.18,derived carbon,rods,nanoparticles,supported,98.1 ,2.0 ,K,OH,0.45 ,2.00 ,1178.00 ,10.1016/j.jallcom.2021.162773,28
+245,CoS2@NDMC,27,4,9,1.88,1.18,derived carbon,rods,nanoparticles,supported,98.1 ,2.0 ,K,OH,0.45 ,4.00 ,1088.00 ,10.1016/j.jallcom.2021.162773,28
+246,CoS2@NDMC,27,4,9,1.88,1.18,derived carbon,rods,nanoparticles,supported,98.1 ,2.0 ,K,OH,0.45 ,8.00 ,957.00 ,10.1016/j.jallcom.2021.162773,28
+247,CoS2@NDMC,27,4,9,1.88,1.18,derived carbon,rods,nanoparticles,supported,98.1 ,2.0 ,K,OH,0.45 ,16.00 ,787.00 ,10.1016/j.jallcom.2021.162773,28
+288,CoS2-C@TCL,27,4,9,1.88,1.18,derived carbon,3D porous,nanoparticles,coated,111.3 ,2.0 ,K,OH,0.50 ,1.00 ,1008.00 ,10.1016/j.jpowsour.2016.12.013,32
+289,CoS2-C@TCL,27,4,9,1.88,1.18,derived carbon,3D porous,nanoparticles,coated,111.3 ,2.0 ,K,OH,0.50 ,2.00 ,964.00 ,10.1016/j.jpowsour.2016.12.013,32
+290,CoS2-C@TCL,27,4,9,1.88,1.18,derived carbon,3D porous,nanoparticles,coated,111.3 ,2.0 ,K,OH,0.50 ,5.00 ,873.00 ,10.1016/j.jpowsour.2016.12.013,32
+291,CoS2-C@TCL,27,4,9,1.88,1.18,derived carbon,3D porous,nanoparticles,coated,111.3 ,2.0 ,K,OH,0.50 ,8.00 ,788.00 ,10.1016/j.jpowsour.2016.12.013,32
+292,CoS2-C@TCL,27,4,9,1.88,1.18,derived carbon,3D porous,nanoparticles,coated,111.3 ,2.0 ,K,OH,0.50 ,10.00 ,740.00 ,10.1016/j.jpowsour.2016.12.013,32
+299,CoS2/CNF,27,4,9,1.88,1.18,CNF,1D fibers,nanoparticles,supported,16.3 ,3.0 ,K,OH,0.45 ,1.00 ,518.40 ,10.1007/s12274-023-5533-1,34
+300,CoS2/CNF,27,4,9,1.88,1.18,CNF,1D fibers,nanoparticles,supported,16.3 ,3.0 ,K,OH,0.45 ,2.00 ,397.00 ,10.1007/s12274-023-5533-1,34
+301,CoS2/CNF,27,4,9,1.88,1.18,CNF,1D fibers,nanoparticles,supported,16.3 ,3.0 ,K,OH,0.45 ,3.00 ,331.00 ,10.1007/s12274-023-5533-1,34
+302,CoS2/CNF,27,4,9,1.88,1.18,CNF,1D fibers,nanoparticles,supported,16.3 ,3.0 ,K,OH,0.45 ,5.00 ,272.00 ,10.1007/s12274-023-5533-1,34
+303,CoS2/CNF,27,4,9,1.88,1.18,CNF,1D fibers,nanoparticles,supported,16.3 ,3.0 ,K,OH,0.45 ,10.00 ,215.00 ,10.1007/s12274-023-5533-1,34
+304,CoS2/PCNF-0.25,27,4,9,1.88,1.18,CNF,1D fibers,nanoparticles,supported,22.4 ,3.0 ,K,OH,0.45 ,1.00 ,688.80 ,10.1007/s12274-023-5533-1,34
+305,CoS2/PCNF-0.25,27,4,9,1.88,1.18,CNF,1D fibers,nanoparticles,supported,22.4 ,3.0 ,K,OH,0.45 ,2.00 ,538.00 ,10.1007/s12274-023-5533-1,34
+306,CoS2/PCNF-0.25,27,4,9,1.88,1.18,CNF,1D fibers,nanoparticles,supported,22.4 ,3.0 ,K,OH,0.45 ,3.00 ,456.00 ,10.1007/s12274-023-5533-1,34
+307,CoS2/PCNF-0.25,27,4,9,1.88,1.18,CNF,1D fibers,nanoparticles,supported,22.4 ,3.0 ,K,OH,0.45 ,5.00 ,384.00 ,10.1007/s12274-023-5533-1,34
+308,CoS2/PCNF-0.25,27,4,9,1.88,1.18,CNF,1D fibers,nanoparticles,supported,22.4 ,3.0 ,K,OH,0.45 ,10.00 ,317.00 ,10.1007/s12274-023-5533-1,34
+315,(o)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,28.0 ,2.0 ,K,OH,0.40 ,0.50 ,146.00 ,10.1021/acs.inorgchem.7b00200,36
+316,(o)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,28.0 ,2.0 ,K,OH,0.40 ,1.00 ,139.00 ,10.1021/acs.inorgchem.7b00200,36
+317,(o)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,28.0 ,2.0 ,K,OH,0.40 ,2.00 ,125.00 ,10.1021/acs.inorgchem.7b00200,36
+318,(o)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,28.0 ,2.0 ,K,OH,0.40 ,5.00 ,112.00 ,10.1021/acs.inorgchem.7b00200,36
+319,(o)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,28.0 ,2.0 ,K,OH,0.40 ,10.00 ,72.00 ,10.1021/acs.inorgchem.7b00200,36
+320,(m)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,8.0 ,2.0 ,K,OH,0.40 ,0.50 ,405.00 ,10.1021/acs.inorgchem.7b00200,36
+321,(m)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,8.0 ,2.0 ,K,OH,0.40 ,1.00 ,385.00 ,10.1021/acs.inorgchem.7b00200,36
+322,(m)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,8.0 ,2.0 ,K,OH,0.40 ,2.00 ,278.00 ,10.1021/acs.inorgchem.7b00200,36
+323,(m)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,8.0 ,2.0 ,K,OH,0.40 ,5.00 ,200.00 ,10.1021/acs.inorgchem.7b00200,36
+324,(m)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,8.0 ,2.0 ,K,OH,0.40 ,10.00 ,158.00 ,10.1021/acs.inorgchem.7b00200,36
+325,(p)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,18.0 ,2.0 ,K,OH,0.40 ,0.50 ,825.00 ,10.1021/acs.inorgchem.7b00200,36
+326,(p)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,18.0 ,2.0 ,K,OH,0.40 ,1.00 ,782.00 ,10.1021/acs.inorgchem.7b00200,36
+327,(p)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,18.0 ,2.0 ,K,OH,0.40 ,2.00 ,550.00 ,10.1021/acs.inorgchem.7b00200,36
+328,(p)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,18.0 ,2.0 ,K,OH,0.40 ,5.00 ,375.00 ,10.1021/acs.inorgchem.7b00200,36
+329,(p)-CoS2@CNT,27,4,9,1.88,1.18,derived carbon & CNT,3D porous,irregular nanoparticles,interconnected,18.0 ,2.0 ,K,OH,0.40 ,10.00 ,268.00 ,10.1021/acs.inorgchem.7b00200,36
+330,CoS2@MC,27,4,9,1.88,1.18,derived carbon,nanospheres,nanoparticles,supported,208.0 ,2.0 ,K,OH,0.45 ,2.00 ,513.00 ,10.1021/acsami.6b11958,37
+331,CoS2@MC,27,4,9,1.88,1.18,derived carbon,nanospheres,nanoparticles,supported,208.0 ,2.0 ,K,OH,0.45 ,5.00 ,434.00 ,10.1021/acsami.6b11958,37
+332,CoS2@MC,27,4,9,1.88,1.18,derived carbon,nanospheres,nanoparticles,supported,208.0 ,2.0 ,K,OH,0.45 ,10.00 ,368.00 ,10.1021/acsami.6b11958,37
+333,CoS2@MC,27,4,9,1.88,1.18,derived carbon,nanospheres,nanoparticles,supported,208.0 ,2.0 ,K,OH,0.45 ,15.00 ,324.00 ,10.1021/acsami.6b11958,37
+334,NS-0.5,28,4,10,1.91,1.17,0,0,hollow nanoparticles,0,24.2 ,2.0 ,Li,OH,0.55 ,5.00 ,1725.00 ,10.1021/acsami.5b07941,38
+335,NS-0.5,28,4,10,1.91,1.17,0,0,hollow nanoparticles,0,24.2 ,2.0 ,Li,OH,0.55 ,10.00 ,1584.00 ,10.1021/acsami.5b07941,38
+336,NS-0.5,28,4,10,1.91,1.17,0,0,hollow nanoparticles,0,24.2 ,2.0 ,Li,OH,0.55 ,15.00 ,1489.00 ,10.1021/acsami.5b07941,38
+337,NS-0.5,28,4,10,1.91,1.17,0,0,hollow nanoparticles,0,24.2 ,2.0 ,Li,OH,0.55 ,20.00 ,1411.00 ,10.1021/acsami.5b07941,38
+338,NS-0.5,28,4,10,1.91,1.17,0,0,hollow nanoparticles,0,24.2 ,2.0 ,Li,OH,0.55 ,30.00 ,1293.00 ,10.1021/acsami.5b07941,38
+339,NS-0.5,28,4,10,1.91,1.17,0,0,hollow nanoparticles,0,24.2 ,2.0 ,Li,OH,0.55 ,40.00 ,1193.00 ,10.1021/acsami.5b07941,38
+340,pyrite NiS2,28,4,10,1.91,1.17,0,0,irregular nanoparticles,0,19.9 ,6.0 ,K,OH,0.55 ,2.00 ,1072.60 ,10.1016/j.est.2020.101852,39
+341,pyrite NiS2,28,4,10,1.91,1.17,0,0,irregular nanoparticles,0,19.9 ,6.0 ,K,OH,0.55 ,3.00 ,912.70 ,10.1016/j.est.2020.101852,39
+342,pyrite NiS2,28,4,10,1.91,1.17,0,0,irregular nanoparticles,0,19.9 ,6.0 ,K,OH,0.55 ,5.00 ,744.60 ,10.1016/j.est.2020.101852,39
+343,pyrite NiS2,28,4,10,1.91,1.17,0,0,irregular nanoparticles,0,19.9 ,6.0 ,K,OH,0.55 ,7.00 ,618.50 ,10.1016/j.est.2020.101852,39
+344,pyrite NiS2,28,4,10,1.91,1.17,0,0,irregular nanoparticles,0,19.9 ,6.0 ,K,OH,0.55 ,10.00 ,480.70 ,10.1016/j.est.2020.101852,39
+345,NiS2,28,4,10,1.91,1.17,0,0,irregular nanoparticles,0,6.3 ,1.0 ,K,OH,0.45 ,1.00 ,782.67 ,10.1002/cssc.202301148,40
+346,NiS2,28,4,10,1.91,1.17,0,0,irregular nanoparticles,0,6.3 ,1.0 ,K,OH,0.45 ,2.00 ,590.44 ,10.1002/cssc.202301148,40
+347,NiS2,28,4,10,1.91,1.17,0,0,irregular nanoparticles,0,6.3 ,1.0 ,K,OH,0.45 ,5.00 ,408.00 ,10.1002/cssc.202301148,40
+348,NiS2,28,4,10,1.91,1.17,0,0,irregular nanoparticles,0,6.3 ,1.0 ,K,OH,0.45 ,10.00 ,310.00 ,10.1002/cssc.202301148,40
+349,NiS2,28,4,10,1.91,1.17,0,0,irregular nanoparticles,0,6.3 ,1.0 ,K,OH,0.45 ,20.00 ,237.33 ,10.1002/cssc.202301148,40
+350,NiS2,28,4,10,1.91,1.17,0,0,irregular nanoparticles,0,6.3 ,1.0 ,K,OH,0.45 ,50.00 ,168.67 ,10.1002/cssc.202301148,40
+351,NiS2,28,4,10,1.91,1.17,0,0,bulk,0,66.5 ,6.0 ,K,OH,0.45 ,0.50 ,566.00 ,10.1021/acsanm.1c00908,41
+352,NiS2,28,4,10,1.91,1.17,0,0,bulk,0,66.5 ,6.0 ,K,OH,0.45 ,1.00 ,536.90 ,10.1021/acsanm.1c00908,41
+353,NiS2,28,4,10,1.91,1.17,0,0,bulk,0,66.5 ,6.0 ,K,OH,0.45 ,2.00 ,382.70 ,10.1021/acsanm.1c00908,41
+354,NiS2,28,4,10,1.91,1.17,0,0,bulk,0,66.5 ,6.0 ,K,OH,0.45 ,4.00 ,218.60 ,10.1021/acsanm.1c00908,41
+355,NiS2,28,4,10,1.91,1.17,0,0,bulk,0,66.5 ,6.0 ,K,OH,0.45 ,6.00 ,112.90 ,10.1021/acsanm.1c00908,41
+356,NiS2,28,4,10,1.91,1.17,0,0,bulk,0,66.5 ,6.0 ,K,OH,0.45 ,8.00 ,47.80 ,10.1021/acsanm.1c00908,41
+357,NiS2,28,4,10,1.91,1.17,0,0,bulk,0,66.5 ,6.0 ,K,OH,0.45 ,10.00 ,28.80 ,10.1021/acsanm.1c00908,41
+365,NiS2,28,4,10,1.91,1.17,0,0,flower-like clusters,0,11.4 ,2.0 ,Li,OH,0.60 ,1.00 ,1355.00 ,10.1021/acs.energyfuels.0c01797,42
+366,NiS2,28,4,10,1.91,1.17,0,0,flower-like clusters,0,11.4 ,2.0 ,Li,OH,0.60 ,2.00 ,1240.00 ,10.1021/acs.energyfuels.0c01797,42
+367,NiS2,28,4,10,1.91,1.17,0,0,flower-like clusters,0,11.4 ,2.0 ,Li,OH,0.60 ,5.00 ,1133.00 ,10.1021/acs.energyfuels.0c01797,42
+368,NiS2,28,4,10,1.91,1.17,0,0,flower-like clusters,0,11.4 ,2.0 ,Li,OH,0.60 ,10.00 ,1050.00 ,10.1021/acs.energyfuels.0c01797,42
+369,NiS2,28,4,10,1.91,1.17,0,0,flower-like clusters,0,11.4 ,2.0 ,Li,OH,0.60 ,15.00 ,1000.00 ,10.1021/acs.energyfuels.0c01797,42
+370,NiS2,28,4,10,1.91,1.17,0,0,flower-like clusters,0,11.4 ,2.0 ,Li,OH,0.60 ,20.00 ,967.00 ,10.1021/acs.energyfuels.0c01797,42
+371,NiS2,28,4,10,1.91,1.17,0,0,hollow rods,0,59.2 ,6.0 ,K,OH,0.55 ,1.00 ,1020.20 ,10.1016/j.jpowsour.2015.09.116,43
+372,NiS2,28,4,10,1.91,1.17,0,0,hollow rods,0,59.2 ,6.0 ,K,OH,0.55 ,2.00 ,821.20 ,10.1016/j.jpowsour.2015.09.116,43
+373,NiS2,28,4,10,1.91,1.17,0,0,hollow rods,0,59.2 ,6.0 ,K,OH,0.55 ,3.00 ,728.70 ,10.1016/j.jpowsour.2015.09.116,43
+374,NiS2,28,4,10,1.91,1.17,0,0,hollow rods,0,59.2 ,6.0 ,K,OH,0.55 ,5.00 ,643.60 ,10.1016/j.jpowsour.2015.09.116,43
+375,NiS2,28,4,10,1.91,1.17,0,0,hollow rods,0,59.2 ,6.0 ,K,OH,0.55 ,7.00 ,601.80 ,10.1016/j.jpowsour.2015.09.116,43
+376,NiS2,28,4,10,1.91,1.17,0,0,hollow rods,0,59.2 ,6.0 ,K,OH,0.55 ,10.00 ,534.90 ,10.1016/j.jpowsour.2015.09.116,43
+377,NiS2,28,4,10,1.91,1.17,0,0,hollow spheres,0,12.4 ,2.0 ,K,OH,0.40 ,2.00 ,1541.00 ,10.1039/C8QI00172C,44
+378,NiS2,28,4,10,1.91,1.17,0,0,hollow spheres,0,12.4 ,2.0 ,K,OH,0.40 ,3.00 ,1421.00 ,10.1039/C8QI00172C,44
+379,NiS2,28,4,10,1.91,1.17,0,0,hollow spheres,0,12.4 ,2.0 ,K,OH,0.40 ,4.00 ,1349.00 ,10.1039/C8QI00172C,44
+380,NiS2,28,4,10,1.91,1.17,0,0,hollow spheres,0,12.4 ,2.0 ,K,OH,0.40 ,8.00 ,1213.00 ,10.1039/C8QI00172C,44
+381,NiS2,28,4,10,1.91,1.17,0,0,hollow spheres,0,12.4 ,2.0 ,K,OH,0.40 ,10.00 ,1150.00 ,10.1039/C8QI00172C,44
+382,NiS2,28,4,10,1.91,1.17,0,0,hollow spheres,0,12.4 ,2.0 ,K,OH,0.40 ,20.00 ,874.00 ,10.1039/C8QI00172C,44
+413,CoS2,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,25.1 ,2.0 ,K,OH,0.40 ,2.00 ,485.00 ,10.1039/C8QI00172C,44
+414,CoS2,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,25.1 ,2.0 ,K,OH,0.40 ,3.00 ,464.00 ,10.1039/C8QI00172C,44
+415,CoS2,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,25.1 ,2.0 ,K,OH,0.40 ,4.00 ,446.00 ,10.1039/C8QI00172C,44
+416,CoS2,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,25.1 ,2.0 ,K,OH,0.40 ,8.00 ,375.00 ,10.1039/C8QI00172C,44
+417,CoS2,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,25.1 ,2.0 ,K,OH,0.40 ,10.00 ,354.00 ,10.1039/C8QI00172C,44
+418,CoS2,27,4,9,1.88,1.18,0,0,irregular nanoparticles,0,25.1 ,2.0 ,K,OH,0.40 ,20.00 ,254.00 ,10.1039/C8QI00172C,44
+419,TD-NiS2/G-0,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,46.0 ,6.0 ,K,OH,0.50 ,1.00 ,1443.00 ,10.1016/j.jpcs.2022.110716,45
+420,TD-NiS2/G-0,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,46.0 ,6.0 ,K,OH,0.50 ,2.00 ,1027.00 ,10.1016/j.jpcs.2022.110716,45
+421,TD-NiS2/G-0,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,46.0 ,6.0 ,K,OH,0.50 ,5.00 ,729.00 ,10.1016/j.jpcs.2022.110716,45
+422,TD-NiS2/G-0,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,46.0 ,6.0 ,K,OH,0.50 ,10.00 ,475.00 ,10.1016/j.jpcs.2022.110716,45
+423,TD-NiS2/G-0,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,46.0 ,6.0 ,K,OH,0.50 ,20.00 ,239.00 ,10.1016/j.jpcs.2022.110716,45
+424,TD-NiS2/G-1,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,126.0 ,6.0 ,K,OH,0.50 ,1.00 ,1652.00 ,10.1016/j.jpcs.2022.110716,45
+425,TD-NiS2/G-1,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,126.0 ,6.0 ,K,OH,0.50 ,2.00 ,1155.00 ,10.1016/j.jpcs.2022.110716,45
+426,TD-NiS2/G-1,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,126.0 ,6.0 ,K,OH,0.50 ,5.00 ,926.00 ,10.1016/j.jpcs.2022.110716,45
+427,TD-NiS2/G-1,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,126.0 ,6.0 ,K,OH,0.50 ,10.00 ,768.00 ,10.1016/j.jpcs.2022.110716,45
+428,TD-NiS2/G-1,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,126.0 ,6.0 ,K,OH,0.50 ,20.00 ,594.00 ,10.1016/j.jpcs.2022.110716,45
+429,TD-NiS2/G-2,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,111.0 ,6.0 ,K,OH,0.50 ,1.00 ,1467.00 ,10.1016/j.jpcs.2022.110716,45
+430,TD-NiS2/G-2,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,111.0 ,6.0 ,K,OH,0.50 ,2.00 ,1061.00 ,10.1016/j.jpcs.2022.110716,45
+431,TD-NiS2/G-2,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,111.0 ,6.0 ,K,OH,0.50 ,5.00 ,864.00 ,10.1016/j.jpcs.2022.110716,45
+432,TD-NiS2/G-2,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,111.0 ,6.0 ,K,OH,0.50 ,10.00 ,684.00 ,10.1016/j.jpcs.2022.110716,45
+433,TD-NiS2/G-2,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,111.0 ,6.0 ,K,OH,0.50 ,20.00 ,406.00 ,10.1016/j.jpcs.2022.110716,45
+434,TD-NiS2/G-3,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,87.0 ,6.0 ,K,OH,0.50 ,1.00 ,1362.00 ,10.1016/j.jpcs.2022.110716,45
+435,TD-NiS2/G-3,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,87.0 ,6.0 ,K,OH,0.50 ,2.00 ,968.00 ,10.1016/j.jpcs.2022.110716,45
+436,TD-NiS2/G-3,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,87.0 ,6.0 ,K,OH,0.50 ,5.00 ,734.00 ,10.1016/j.jpcs.2022.110716,45
+437,TD-NiS2/G-3,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,87.0 ,6.0 ,K,OH,0.50 ,10.00 ,556.00 ,10.1016/j.jpcs.2022.110716,45
+438,TD-NiS2/G-3,28,4,10,1.91,1.17,Graphene,rods,irregular nanoparticles,embedded,87.0 ,6.0 ,K,OH,0.50 ,20.00 ,345.00 ,10.1016/j.jpcs.2022.110716,45
+439,NiS2/CNS@N-CNTs,28,4,10,1.91,1.17,derived carbon & CNT,1D fibers,irregular nanoparticles,interconnected,62.6 ,6.0 ,K,OH,0.50 ,0.50 ,500.00 ,10.1021/acsaem.4c01014,46
+440,NiS2/CNS@N-CNTs,28,4,10,1.91,1.17,derived carbon & CNT,1D fibers,irregular nanoparticles,interconnected,62.6 ,6.0 ,K,OH,0.50 ,1.00 ,456.00 ,10.1021/acsaem.4c01014,46
+441,NiS2/CNS@N-CNTs,28,4,10,1.91,1.17,derived carbon & CNT,1D fibers,irregular nanoparticles,interconnected,62.6 ,6.0 ,K,OH,0.50 ,2.00 ,408.00 ,10.1021/acsaem.4c01014,46
+442,NiS2/CNS@N-CNTs,28,4,10,1.91,1.17,derived carbon & CNT,1D fibers,irregular nanoparticles,interconnected,62.6 ,6.0 ,K,OH,0.50 ,3.00 ,376.20 ,10.1021/acsaem.4c01014,46
+443,NiS2/CNS@N-CNTs,28,4,10,1.91,1.17,derived carbon & CNT,1D fibers,irregular nanoparticles,interconnected,62.6 ,6.0 ,K,OH,0.50 ,5.00 ,330.00 ,10.1021/acsaem.4c01014,46
+444,NiS2,28,4,10,1.91,1.17,0,0,bulk,0,18.5 ,6.0 ,K,OH,0.40 ,3.00 ,834.00 ,10.1016/j.compositesb.2019.107373,47
+481,NiS2/CC,28,4,10,1.91,1.17,CC,1D fibers,flower-like clusters,supported,72.6 ,3.0 ,K,OH,0.40 ,0.40 ,1168.00 ,10.1016/j.carbon.2022.07.032,49
+482,NiS2/CC,28,4,10,1.91,1.17,CC,1D fibers,flower-like clusters,supported,72.6 ,3.0 ,K,OH,0.40 ,0.80 ,1074.00 ,10.1016/j.carbon.2022.07.032,49
+483,NiS2/CC,28,4,10,1.91,1.17,CC,1D fibers,flower-like clusters,supported,72.6 ,3.0 ,K,OH,0.40 ,1.00 ,868.00 ,10.1016/j.carbon.2022.07.032,49
+484,NiS2/CC,28,4,10,1.91,1.17,CC,1D fibers,flower-like clusters,supported,72.6 ,3.0 ,K,OH,0.40 ,2.00 ,679.00 ,10.1016/j.carbon.2022.07.032,49
+485,NiS2/CC,28,4,10,1.91,1.17,CC,1D fibers,flower-like clusters,supported,72.6 ,3.0 ,K,OH,0.40 ,5.00 ,582.00 ,10.1016/j.carbon.2022.07.032,49
+486,2NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,12.0 ,2.0 ,K,OH,0.50 ,0.50 ,650.00 ,10.1016/j.electacta.2023.142920,50
+487,2NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,12.0 ,2.0 ,K,OH,0.50 ,1.00 ,643.00 ,10.1016/j.electacta.2023.142920,50
+488,2NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,12.0 ,2.0 ,K,OH,0.50 ,2.00 ,614.00 ,10.1016/j.electacta.2023.142920,50
+489,2NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,12.0 ,2.0 ,K,OH,0.50 ,3.00 ,584.00 ,10.1016/j.electacta.2023.142920,50
+490,2NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,12.0 ,2.0 ,K,OH,0.50 ,4.00 ,546.00 ,10.1016/j.electacta.2023.142920,50
+491,2NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,12.0 ,2.0 ,K,OH,0.50 ,5.00 ,509.00 ,10.1016/j.electacta.2023.142920,50
+492,4NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,43.5 ,2.0 ,K,OH,0.50 ,0.50 ,901.00 ,10.1016/j.electacta.2023.142920,50
+493,4NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,43.5 ,2.0 ,K,OH,0.50 ,1.00 ,895.00 ,10.1016/j.electacta.2023.142920,50
+494,4NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,43.5 ,2.0 ,K,OH,0.50 ,2.00 ,848.00 ,10.1016/j.electacta.2023.142920,50
+495,4NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,43.5 ,2.0 ,K,OH,0.50 ,3.00 ,800.00 ,10.1016/j.electacta.2023.142920,50
+496,4NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,43.5 ,2.0 ,K,OH,0.50 ,4.00 ,736.00 ,10.1016/j.electacta.2023.142920,50
+497,4NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,43.5 ,2.0 ,K,OH,0.50 ,5.00 ,672.00 ,10.1016/j.electacta.2023.142920,50
+498,6NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,52.2 ,2.0 ,K,OH,0.50 ,0.50 ,1573.00 ,10.1016/j.electacta.2023.142920,50
+499,6NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,52.2 ,2.0 ,K,OH,0.50 ,1.00 ,1430.00 ,10.1016/j.electacta.2023.142920,50
+500,6NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,52.2 ,2.0 ,K,OH,0.50 ,2.00 ,1251.00 ,10.1016/j.electacta.2023.142920,50
+501,6NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,52.2 ,2.0 ,K,OH,0.50 ,3.00 ,1128.00 ,10.1016/j.electacta.2023.142920,50
+502,6NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,52.2 ,2.0 ,K,OH,0.50 ,4.00 ,1024.00 ,10.1016/j.electacta.2023.142920,50
+503,6NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,52.2 ,2.0 ,K,OH,0.50 ,5.00 ,930.00 ,10.1016/j.electacta.2023.142920,50
+504,8NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,37.7 ,2.0 ,K,OH,0.50 ,0.50 ,729.00 ,10.1016/j.electacta.2023.142920,50
+505,8NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,37.7 ,2.0 ,K,OH,0.50 ,1.00 ,678.00 ,10.1016/j.electacta.2023.142920,50
+506,8NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,37.7 ,2.0 ,K,OH,0.50 ,2.00 ,614.00 ,10.1016/j.electacta.2023.142920,50
+507,8NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,37.7 ,2.0 ,K,OH,0.50 ,3.00 ,549.00 ,10.1016/j.electacta.2023.142920,50
+508,8NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,37.7 ,2.0 ,K,OH,0.50 ,4.00 ,478.00 ,10.1016/j.electacta.2023.142920,50
+509,8NCC,28,4,10,1.91,1.17,derived carbon & CNT,3D porous,spheres,interconnected,37.7 ,2.0 ,K,OH,0.50 ,5.00 ,419.00 ,10.1016/j.electacta.2023.142920,50
+510,NiS2@HCS,28,4,10,1.91,1.17,derived carbon,3D porous,hollow spheres,coated,18.0 ,2.0 ,K,OH,0.40 ,1.00 ,1707.50 ,10.1016/j.apsusc.2022.154989,51
+511,NiS2@HCS,28,4,10,1.91,1.17,derived carbon,3D porous,hollow spheres,coated,18.0 ,2.0 ,K,OH,0.40 ,10.00 ,701.25 ,10.1016/j.apsusc.2022.154989,51
+512,PProDOT/NiS2@HCS,28,4,10,1.91,1.17,derived carbon,3D porous,hollow spheres,coated,24.0 ,2.0 ,K,OH,0.40 ,1.00 ,1843.25 ,10.1016/j.apsusc.2022.154989,51
+513,PProDOT/NiS2@HCS,28,4,10,1.91,1.17,derived carbon,3D porous,hollow spheres,coated,24.0 ,2.0 ,K,OH,0.40 ,2.00 ,1742.75 ,10.1016/j.apsusc.2022.154989,51
+514,PProDOT/NiS2@HCS,28,4,10,1.91,1.17,derived carbon,3D porous,hollow spheres,coated,24.0 ,2.0 ,K,OH,0.40 ,3.00 ,1661.00 ,10.1016/j.apsusc.2022.154989,51
+515,PProDOT/NiS2@HCS,28,4,10,1.91,1.17,derived carbon,3D porous,hollow spheres,coated,24.0 ,2.0 ,K,OH,0.40 ,5.00 ,1537.00 ,10.1016/j.apsusc.2022.154989,51
+516,PProDOT/NiS2@HCS,28,4,10,1.91,1.17,derived carbon,3D porous,hollow spheres,coated,24.0 ,2.0 ,K,OH,0.40 ,7.00 ,1414.25 ,10.1016/j.apsusc.2022.154989,51
+517,PProDOT/NiS2@HCS,28,4,10,1.91,1.17,derived carbon,3D porous,hollow spheres,coated,24.0 ,2.0 ,K,OH,0.40 ,10.00 ,1280.25 ,10.1016/j.apsusc.2022.154989,51
+518,PProDOT/NiS2@HCS,28,4,10,1.91,1.17,derived carbon,3D porous,hollow spheres,coated,24.0 ,2.0 ,K,OH,0.40 ,15.00 ,1121.50 ,10.1016/j.apsusc.2022.154989,51
+519,ZrS2,40,5,4,1.33,1.64,0,0,bulk,0,32.0 ,2.0 ,K,OH,0.65 ,1.00 ,813.50 ,10.1016/j.diamond.2024.111484,52
+520,ZrS2,40,5,4,1.33,1.64,0,0,bulk,0,32.0 ,2.0 ,K,OH,0.65 ,1.00 ,638.00 ,10.1016/j.diamond.2024.111484,52
+521,ZrS2,40,5,4,1.33,1.64,0,0,bulk,0,32.0 ,2.0 ,K,OH,0.65 ,1.00 ,515.00 ,10.1016/j.diamond.2024.111484,52
+522,ZrS2@rGO,40,5,4,1.33,1.64,RGO,2D nanosheets,bulk,supported,59.0 ,2.0 ,K,OH,0.65 ,1.00 ,1238.00 ,10.1016/j.diamond.2024.111484,52
+523,ZrS2@rGO,40,5,4,1.33,1.64,RGO,2D nanosheets,bulk,supported,59.0 ,2.0 ,K,OH,0.65 ,2.00 ,784.00 ,10.1016/j.diamond.2024.111484,52
+524,ZrS2@rGO,40,5,4,1.33,1.64,RGO,2D nanosheets,bulk,supported,59.0 ,2.0 ,K,OH,0.65 ,3.00 ,565.00 ,10.1016/j.diamond.2024.111484,52
+525,OA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,12.7 ,1.0 ,Na,SO4,0.50 ,1.00 ,100.00 ,10.1016/j.mtchem.2024.102002,53
+526,OA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,12.7 ,1.0 ,Na,SO4,0.50 ,2.00 ,89.00 ,10.1016/j.mtchem.2024.102002,53
+527,OA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,12.7 ,1.0 ,Na,SO4,0.50 ,3.00 ,83.00 ,10.1016/j.mtchem.2024.102002,53
+528,OA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,12.7 ,1.0 ,Na,SO4,0.50 ,5.00 ,77.00 ,10.1016/j.mtchem.2024.102002,53
+529,OA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,12.7 ,1.0 ,Na,SO4,0.50 ,7.00 ,72.00 ,10.1016/j.mtchem.2024.102002,53
+530,OA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,12.7 ,1.0 ,Na,SO4,0.50 ,10.00 ,66.00 ,10.1016/j.mtchem.2024.102002,53
+531,OA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,12.7 ,1.0 ,Na,SO4,0.50 ,15.00 ,58.00 ,10.1016/j.mtchem.2024.102002,53
+532,OA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,12.7 ,1.0 ,Na,SO4,0.50 ,20.00 ,52.00 ,10.1016/j.mtchem.2024.102002,53
+533,CA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,19.5 ,1.0 ,Na,SO4,0.50 ,1.00 ,180.00 ,10.1016/j.mtchem.2024.102002,53
+534,CA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,19.5 ,1.0 ,Na,SO4,0.50 ,2.00 ,141.00 ,10.1016/j.mtchem.2024.102002,53
+535,CA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,19.5 ,1.0 ,Na,SO4,0.50 ,3.00 ,130.00 ,10.1016/j.mtchem.2024.102002,53
+536,CA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,19.5 ,1.0 ,Na,SO4,0.50 ,5.00 ,119.00 ,10.1016/j.mtchem.2024.102002,53
+537,CA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,19.5 ,1.0 ,Na,SO4,0.50 ,7.00 ,113.00 ,10.1016/j.mtchem.2024.102002,53
+538,CA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,19.5 ,1.0 ,Na,SO4,0.50 ,10.00 ,105.00 ,10.1016/j.mtchem.2024.102002,53
+539,CA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,19.5 ,1.0 ,Na,SO4,0.50 ,15.00 ,95.00 ,10.1016/j.mtchem.2024.102002,53
+540,CA-MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,19.5 ,1.0 ,Na,SO4,0.50 ,20.00 ,86.00 ,10.1016/j.mtchem.2024.102002,53
+541,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,22.0 ,1.0 ,H,SO4,0.70 ,0.50 ,148.00 ,10.1016/j.jallcom.2019.05.240,54
+542,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,22.0 ,1.0 ,H,SO4,0.70 ,1.00 ,136.00 ,10.1016/j.jallcom.2019.05.240,54
+543,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,22.0 ,1.0 ,H,SO4,0.70 ,2.00 ,123.00 ,10.1016/j.jallcom.2019.05.240,54
+544,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,22.0 ,1.0 ,H,SO4,0.70 ,5.00 ,113.00 ,10.1016/j.jallcom.2019.05.240,54
+545,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,22.0 ,1.0 ,H,SO4,0.70 ,10.00 ,102.00 ,10.1016/j.jallcom.2019.05.240,54
+546,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,22.0 ,1.0 ,H,SO4,0.70 ,20.00 ,97.00 ,10.1016/j.jallcom.2019.05.240,54
+547,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,22.0 ,1.0 ,H,SO4,0.70 ,30.00 ,94.00 ,10.1016/j.jallcom.2019.05.240,54
+552,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,21.1 ,1.0 ,Na,SO4,1.00 ,1.00 ,129.20 ,10.1016/j.electacta.2014.04.007,56
+553,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,21.1 ,1.0 ,Na,SO4,1.00 ,1.50 ,115.10 ,10.1016/j.electacta.2014.04.007,56
+554,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,21.1 ,1.0 ,Na,SO4,1.00 ,3.00 ,102.30 ,10.1016/j.electacta.2014.04.007,56
+555,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,21.1 ,1.0 ,Na,SO4,1.00 ,5.00 ,92.00 ,10.1016/j.electacta.2014.04.007,56
+556,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,21.1 ,1.0 ,Na,SO4,1.00 ,10.00 ,73.80 ,10.1016/j.electacta.2014.04.007,56
+557,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,6.6 ,1.0 ,Na,SO4,1.00 ,0.10 ,226.10 ,10.1039/C5DT04832J,57
+558,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,6.6 ,1.0 ,Na,SO4,1.00 ,0.20 ,150.70 ,10.1039/C5DT04832J,57
+559,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,6.6 ,1.0 ,Na,SO4,1.00 ,0.30 ,133.80 ,10.1039/C5DT04832J,57
+560,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,6.6 ,1.0 ,Na,SO4,1.00 ,0.50 ,101.50 ,10.1039/C5DT04832J,57
+561,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,6.6 ,1.0 ,Na,SO4,1.00 ,0.60 ,85.40 ,10.1039/C5DT04832J,57
+562,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,6.6 ,1.0 ,Na,SO4,1.00 ,0.70 ,75.30 ,10.1039/C5DT04832J,57
+563,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,6.6 ,1.0 ,Na,SO4,1.00 ,1.00 ,34.60 ,10.1039/C5DT04832J,57
+571,MSRCF-24,42,5,6,2.16,1.46,CNF,1D fibers,flower-like clusters,supported,115.0 ,1.0 ,Na,SO4,0.70 ,0.50 ,225.00 ,10.1016/j.carbon.2017.11.052,58
+572,MSRCF-24,42,5,6,2.16,1.46,CNF,1D fibers,flower-like clusters,supported,115.0 ,1.0 ,Na,SO4,0.70 ,1.00 ,214.80 ,10.1016/j.carbon.2017.11.052,58
+573,MSRCF-24,42,5,6,2.16,1.46,CNF,1D fibers,flower-like clusters,supported,115.0 ,1.0 ,Na,SO4,0.70 ,2.00 ,131.00 ,10.1016/j.carbon.2017.11.052,58
+574,MSRCF-24,42,5,6,2.16,1.46,CNF,1D fibers,flower-like clusters,supported,115.0 ,1.0 ,Na,SO4,0.70 ,3.00 ,120.00 ,10.1016/j.carbon.2017.11.052,58
+575,MSRCF-24,42,5,6,2.16,1.46,CNF,1D fibers,flower-like clusters,supported,115.0 ,1.0 ,Na,SO4,0.70 ,4.00 ,112.00 ,10.1016/j.carbon.2017.11.052,58
+576,MSRCF-24,42,5,6,2.16,1.46,CNF,1D fibers,flower-like clusters,supported,115.0 ,1.0 ,Na,SO4,0.70 ,5.00 ,106.00 ,10.1016/j.carbon.2017.11.052,58
+577,pure MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,30.0 ,3.0 ,K,OH,0.42 ,1.00 ,159.00 ,10.1002/slct.202001443,59
+578,pure MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,30.0 ,3.0 ,K,OH,0.42 ,2.00 ,149.00 ,10.1002/slct.202001443,59
+579,pure MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,30.0 ,3.0 ,K,OH,0.42 ,3.00 ,135.00 ,10.1002/slct.202001443,59
+580,pure MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,30.0 ,3.0 ,K,OH,0.42 ,5.00 ,124.00 ,10.1002/slct.202001443,59
+581,pure MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,30.0 ,3.0 ,K,OH,0.42 ,10.00 ,112.00 ,10.1002/slct.202001443,59
+582,pure MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,30.0 ,3.0 ,K,OH,0.42 ,20.00 ,99.00 ,10.1002/slct.202001443,59
+583,MoS2/C(3:1),42,5,6,2.16,1.46,derived carbon,nanoparticles,flower-like clusters,embedded,39.4 ,3.0 ,K,OH,0.42 ,1.00 ,452.70 ,10.1002/slct.202001443,59
+584,MoS2/C(3:1),42,5,6,2.16,1.46,derived carbon,nanoparticles,flower-like clusters,embedded,39.4 ,3.0 ,K,OH,0.42 ,2.00 ,404.30 ,10.1002/slct.202001443,59
+585,MoS2/C(3:1),42,5,6,2.16,1.46,derived carbon,nanoparticles,flower-like clusters,embedded,39.4 ,3.0 ,K,OH,0.42 ,3.00 ,395.40 ,10.1002/slct.202001443,59
+586,MoS2/C(3:1),42,5,6,2.16,1.46,derived carbon,nanoparticles,flower-like clusters,embedded,39.4 ,3.0 ,K,OH,0.42 ,5.00 ,386.30 ,10.1002/slct.202001443,59
+587,MoS2/C(3:1),42,5,6,2.16,1.46,derived carbon,nanoparticles,flower-like clusters,embedded,39.4 ,3.0 ,K,OH,0.42 ,10.00 ,318.10 ,10.1002/slct.202001443,59
+588,MoS2/C(3:1),42,5,6,2.16,1.46,derived carbon,nanoparticles,flower-like clusters,embedded,39.4 ,3.0 ,K,OH,0.42 ,20.00 ,272.70 ,10.1002/slct.202001443,59
+589,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,9.3 ,6.0 ,K,OH,0.50 ,2.00 ,109.00 ,10.1016/j.jcis.2016.10.095,60
+590,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,9.3 ,6.0 ,K,OH,0.50 ,5.00 ,100.00 ,10.1016/j.jcis.2016.10.095,60
+591,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,9.3 ,6.0 ,K,OH,0.50 ,10.00 ,75.00 ,10.1016/j.jcis.2016.10.095,60
+592,MoS2,42,5,6,2.16,1.46,0,0,flower-like clusters,0,9.3 ,6.0 ,K,OH,0.50 ,15.00 ,61.00 ,10.1016/j.jcis.2016.10.095,60
+593,MoS2_50mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,10.3 ,6.0 ,K,OH,0.50 ,2.00 ,132.00 ,10.1016/j.jcis.2016.10.095,60
+594,MoS2_50mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,10.3 ,6.0 ,K,OH,0.50 ,5.00 ,111.00 ,10.1016/j.jcis.2016.10.095,60
+595,MoS2_50mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,10.3 ,6.0 ,K,OH,0.50 ,10.00 ,89.00 ,10.1016/j.jcis.2016.10.095,60
+596,MoS2_50mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,10.3 ,6.0 ,K,OH,0.50 ,15.00 ,66.00 ,10.1016/j.jcis.2016.10.095,60
+597,MoS2_100mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,15.0 ,6.0 ,K,OH,0.50 ,2.00 ,145.00 ,10.1016/j.jcis.2016.10.095,60
+598,MoS2_100mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,15.0 ,6.0 ,K,OH,0.50 ,5.00 ,132.00 ,10.1016/j.jcis.2016.10.095,60
+599,MoS2_100mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,15.0 ,6.0 ,K,OH,0.50 ,10.00 ,111.00 ,10.1016/j.jcis.2016.10.095,60
+600,MoS2_100mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,15.0 ,6.0 ,K,OH,0.50 ,15.00 ,98.00 ,10.1016/j.jcis.2016.10.095,60
+601,MoS2_150mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,26.1 ,6.0 ,K,OH,0.50 ,2.00 ,212.00 ,10.1016/j.jcis.2016.10.095,60
+602,MoS2_150mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,26.1 ,6.0 ,K,OH,0.50 ,5.00 ,155.00 ,10.1016/j.jcis.2016.10.095,60
+603,MoS2_150mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,26.1 ,6.0 ,K,OH,0.50 ,10.00 ,133.00 ,10.1016/j.jcis.2016.10.095,60
+604,MoS2_150mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,26.1 ,6.0 ,K,OH,0.50 ,15.00 ,105.00 ,10.1016/j.jcis.2016.10.095,60
+605,MoS2_200mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,13.3 ,6.0 ,K,OH,0.50 ,2.00 ,199.00 ,10.1016/j.jcis.2016.10.095,60
+606,MoS2_200mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,13.3 ,6.0 ,K,OH,0.50 ,5.00 ,136.00 ,10.1016/j.jcis.2016.10.095,60
+607,MoS2_200mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,13.3 ,6.0 ,K,OH,0.50 ,10.00 ,120.00 ,10.1016/j.jcis.2016.10.095,60
+608,MoS2_200mg GF,42,5,6,2.16,1.46,Graphene,2D nanosheets,flower-like clusters,supported,13.3 ,6.0 ,K,OH,0.50 ,15.00 ,100.00 ,10.1016/j.jcis.2016.10.095,60
+609,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,21.1 ,1.0 ,Na,SO4,1.00 ,1.00 ,119.00 ,10.1016/j.jelechem.2015.06.005,61
+610,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,21.1 ,1.0 ,Na,SO4,1.00 ,1.50 ,108.00 ,10.1016/j.jelechem.2015.06.005,61
+611,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,21.1 ,1.0 ,Na,SO4,1.00 ,3.00 ,94.00 ,10.1016/j.jelechem.2015.06.005,61
+612,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,21.1 ,1.0 ,Na,SO4,1.00 ,5.00 ,85.00 ,10.1016/j.jelechem.2015.06.005,61
+613,MoS2,42,5,6,2.16,1.46,0,0,nanosheets,0,21.1 ,1.0 ,Na,SO4,1.00 ,10.00 ,71.00 ,10.1016/j.jelechem.2015.06.005,61
+619,MG-5,42,5,6,2.16,1.46,RGO,2D nanosheets,nanosheets,supported,70.1 ,1.0 ,H,SO4,0.80 ,0.75 ,331.00 ,10.1002/slct.201903517,62
+620,MG-5,42,5,6,2.16,1.46,RGO,2D nanosheets,nanosheets,supported,70.1 ,1.0 ,H,SO4,0.80 ,1.00 ,310.00 ,10.1002/slct.201903517,62
+621,MG-5,42,5,6,2.16,1.46,RGO,2D nanosheets,nanosheets,supported,70.1 ,1.0 ,H,SO4,0.80 ,2.00 ,247.00 ,10.1002/slct.201903517,62
+622,MG-5,42,5,6,2.16,1.46,RGO,2D nanosheets,nanosheets,supported,70.1 ,1.0 ,H,SO4,0.80 ,3.00 ,231.00 ,10.1002/slct.201903517,62
+623,MG-5,42,5,6,2.16,1.46,RGO,2D nanosheets,nanosheets,supported,70.1 ,1.0 ,H,SO4,0.80 ,4.00 ,216.00 ,10.1002/slct.201903517,62
+624,MG-5,42,5,6,2.16,1.46,RGO,2D nanosheets,nanosheets,supported,70.1 ,1.0 ,H,SO4,0.80 ,5.00 ,206.00 ,10.1002/slct.201903517,62
+625,MG-5,42,5,6,2.16,1.46,RGO,2D nanosheets,nanosheets,supported,70.1 ,1.0 ,H,SO4,0.80 ,10.00 ,172.00 ,10.1002/slct.201903517,62
+626,MG-10,42,5,6,2.16,1.46,RGO,2D nanosheets,nanosheets,supported,24.8 ,1.0 ,H,SO4,0.80 ,0.75 ,103.00 ,10.1002/slct.201903517,62
+627,MoS2,42,5,6,2.16,1.46,0,0,irregular nanoparticles,0,1.8 ,1.0 ,K,OH,0.60 ,2.00 ,173.00 ,10.1002/er.8454,63
+628,MoS2,42,5,6,2.16,1.46,0,0,irregular nanoparticles,0,1.8 ,1.0 ,K,OH,0.60 ,4.00 ,169.00 ,10.1002/er.8454,63
+629,MoS2,42,5,6,2.16,1.46,0,0,irregular nanoparticles,0,1.8 ,1.0 ,K,OH,0.60 ,6.00 ,146.00 ,10.1002/er.8454,63
+630,MoS2,42,5,6,2.16,1.46,0,0,irregular nanoparticles,0,1.8 ,1.0 ,K,OH,0.60 ,8.00 ,125.00 ,10.1002/er.8454,63
+631,MoS2,42,5,6,2.16,1.46,0,0,irregular nanoparticles,0,1.8 ,1.0 ,K,OH,0.60 ,10.00 ,111.00 ,10.1002/er.8454,63
+632,MoS2,42,5,6,2.16,1.46,0,0,irregular nanoparticles,0,1.8 ,1.0 ,K,OH,0.60 ,20.00 ,102.00 ,10.1002/er.8454,63
+637,FL-SnS2,50,5,14,1.96,1.4,0,0,flower-like clusters,0,64.8 ,2.0 ,K,OH,0.50 ,1.00 ,431.82 ,10.1021/acsomega.7b01939,65
+638,FL-SnS2,50,5,14,1.96,1.4,0,0,flower-like clusters,0,64.8 ,2.0 ,K,OH,0.50 ,2.00 ,398.88 ,10.1021/acsomega.7b01939,65
+639,FL-SnS2,50,5,14,1.96,1.4,0,0,flower-like clusters,0,64.8 ,2.0 ,K,OH,0.50 ,3.00 ,312.18 ,10.1021/acsomega.7b01939,65
+640,FL-SnS2,50,5,14,1.96,1.4,0,0,flower-like clusters,0,64.8 ,2.0 ,K,OH,0.50 ,5.00 ,272.00 ,10.1021/acsomega.7b01939,65
+641,FL-SnS2,50,5,14,1.96,1.4,0,0,flower-like clusters,0,64.8 ,2.0 ,K,OH,0.50 ,7.00 ,230.70 ,10.1021/acsomega.7b01939,65
+642,FL-SnS2,50,5,14,1.96,1.4,0,0,flower-like clusters,0,64.8 ,2.0 ,K,OH,0.50 ,8.00 ,156.88 ,10.1021/acsomega.7b01939,65
+643,FL-SnS2,50,5,14,1.96,1.4,0,0,flower-like clusters,0,64.8 ,2.0 ,K,OH,0.50 ,10.00 ,126.20 ,10.1021/acsomega.7b01939,65
+644,SL-SnS2,50,5,14,1.96,1.4,0,0,bulk,0,27.4 ,2.0 ,K,OH,0.50 ,1.00 ,112.72 ,10.1021/acsomega.7b01939,65
+645,SL-SnS2,50,5,14,1.96,1.4,0,0,bulk,0,27.4 ,2.0 ,K,OH,0.50 ,2.00 ,104.95 ,10.1021/acsomega.7b01939,65
+646,SL-SnS2,50,5,14,1.96,1.4,0,0,bulk,0,27.4 ,2.0 ,K,OH,0.50 ,3.00 ,67.76 ,10.1021/acsomega.7b01939,65
+647,SL-SnS2,50,5,14,1.96,1.4,0,0,bulk,0,27.4 ,2.0 ,K,OH,0.50 ,5.00 ,67.00 ,10.1021/acsomega.7b01939,65
+648,SL-SnS2,50,5,14,1.96,1.4,0,0,bulk,0,27.4 ,2.0 ,K,OH,0.50 ,7.00 ,44.24 ,10.1021/acsomega.7b01939,65
+649,SL-SnS2,50,5,14,1.96,1.4,0,0,bulk,0,27.4 ,2.0 ,K,OH,0.50 ,8.00 ,35.36 ,10.1021/acsomega.7b01939,65
+650,SL-SnS2,50,5,14,1.96,1.4,0,0,bulk,0,27.4 ,2.0 ,K,OH,0.50 ,10.00 ,28.80 ,10.1021/acsomega.7b01939,65
+651,EL-SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,32.9 ,2.0 ,K,OH,0.50 ,1.00 ,390.38 ,10.1021/acsomega.7b01939,65
+652,EL-SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,32.9 ,2.0 ,K,OH,0.50 ,2.00 ,366.24 ,10.1021/acsomega.7b01939,65
+653,EL-SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,32.9 ,2.0 ,K,OH,0.50 ,3.00 ,247.20 ,10.1021/acsomega.7b01939,65
+654,EL-SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,32.9 ,2.0 ,K,OH,0.50 ,5.00 ,240.30 ,10.1021/acsomega.7b01939,65
+655,EL-SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,32.9 ,2.0 ,K,OH,0.50 ,7.00 ,171.52 ,10.1021/acsomega.7b01939,65
+656,EL-SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,32.9 ,2.0 ,K,OH,0.50 ,8.00 ,121.04 ,10.1021/acsomega.7b01939,65
+657,EL-SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,32.9 ,2.0 ,K,OH,0.50 ,10.00 ,100.40 ,10.1021/acsomega.7b01939,65
+658,SnS2,50,5,14,1.96,1.4,0,0,nanosheets,0,17.5 ,3.5 ,K,OH,0.50 ,1.00 ,89.40 ,10.1039/C5RA18634J,66
+659,SnS2,50,5,14,1.96,1.4,0,0,nanosheets,0,17.5 ,3.5 ,K,OH,0.50 ,2.00 ,71.30 ,10.1039/C5RA18634J,66
+660,SnS2,50,5,14,1.96,1.4,0,0,nanosheets,0,17.5 ,3.5 ,K,OH,0.50 ,4.00 ,64.90 ,10.1039/C5RA18634J,66
+661,SnS2,50,5,14,1.96,1.4,0,0,nanosheets,0,17.5 ,3.5 ,K,OH,0.50 ,10.00 ,50.60 ,10.1039/C5RA18634J,66
+667,SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,52.4 ,2.0 ,K,OH,0.42 ,1.00 ,497.00 ,10.1016/j.est.2023.109403,68
+668,SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,52.4 ,2.0 ,K,OH,0.42 ,1.50 ,471.00 ,10.1016/j.est.2023.109403,68
+669,SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,52.4 ,2.0 ,K,OH,0.42 ,2.00 ,454.00 ,10.1016/j.est.2023.109403,68
+670,SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,52.4 ,2.0 ,K,OH,0.42 ,2.50 ,437.00 ,10.1016/j.est.2023.109403,68
+671,SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,52.4 ,2.0 ,K,OH,0.42 ,3.00 ,429.00 ,10.1016/j.est.2023.109403,68
+672,SnS2,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,52.4 ,2.0 ,K,OH,0.42 ,5.00 ,343.00 ,10.1016/j.est.2023.109403,68
+673,MWCNT/SnS2,50,5,14,1.96,1.4,MWCNT,tubes,irregular nanoparticles,interconnected,64.3 ,2.0 ,K,OH,0.42 ,1.00 ,938.00 ,10.1016/j.est.2023.109403,68
+674,MWCNT/SnS2,50,5,14,1.96,1.4,MWCNT,tubes,irregular nanoparticles,interconnected,64.3 ,2.0 ,K,OH,0.42 ,1.50 ,906.00 ,10.1016/j.est.2023.109403,68
+675,MWCNT/SnS2,50,5,14,1.96,1.4,MWCNT,tubes,irregular nanoparticles,interconnected,64.3 ,2.0 ,K,OH,0.42 ,2.00 ,882.00 ,10.1016/j.est.2023.109403,68
+676,MWCNT/SnS2,50,5,14,1.96,1.4,MWCNT,tubes,irregular nanoparticles,interconnected,64.3 ,2.0 ,K,OH,0.42 ,2.50 ,857.00 ,10.1016/j.est.2023.109403,68
+677,MWCNT/SnS2,50,5,14,1.96,1.4,MWCNT,tubes,irregular nanoparticles,interconnected,64.3 ,2.0 ,K,OH,0.42 ,3.00 ,803.00 ,10.1016/j.est.2023.109403,68
+678,MWCNT/SnS2,50,5,14,1.96,1.4,MWCNT,tubes,irregular nanoparticles,interconnected,64.3 ,2.0 ,K,OH,0.42 ,3.50 ,774.00 ,10.1016/j.est.2023.109403,68
+679,MWCNT/SnS2,50,5,14,1.96,1.4,MWCNT,tubes,irregular nanoparticles,interconnected,64.3 ,2.0 ,K,OH,0.42 ,4.00 ,730.00 ,10.1016/j.est.2023.109403,68
+680,MWCNT/SnS2,50,5,14,1.96,1.4,MWCNT,tubes,irregular nanoparticles,interconnected,64.3 ,2.0 ,K,OH,0.42 ,4.50 ,704.00 ,10.1016/j.est.2023.109403,68
+681,MWCNT/SnS2,50,5,14,1.96,1.4,MWCNT,tubes,irregular nanoparticles,interconnected,64.3 ,2.0 ,K,OH,0.42 ,5.00 ,682.00 ,10.1016/j.est.2023.109403,68
+682,SnS2 solid,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,25.0 ,1.0 ,Li,SO4,1.00 ,1.00 ,45.65 ,10.1021/acsaem.2c01215,69
+683,SnS2 solid,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,25.0 ,1.0 ,Na,SO4,1.00 ,1.00 ,18.40 ,10.1021/acsaem.2c01215,69
+684,SnS2 solid,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,25.0 ,1.0 ,K,OH,1.00 ,1.00 ,62.85 ,10.1021/acsaem.2c01215,69
+685,SnS2 porous,50,5,14,1.96,1.4,0,0,flower-like clusters,0,42.0 ,1.0 ,Li,SO4,1.00 ,1.00 ,112.00 ,10.1021/acsaem.2c01215,69
+686,SnS2 porous,50,5,14,1.96,1.4,0,0,flower-like clusters,0,42.0 ,1.0 ,Na,SO4,1.00 ,1.00 ,19.74 ,10.1021/acsaem.2c01215,69
+687,SnS2 porous,50,5,14,1.96,1.4,0,0,flower-like clusters,0,42.0 ,1.0 ,K,OH,1.00 ,1.00 ,89.14 ,10.1021/acsaem.2c01215,69
+688,SnS2 nanorods,50,5,14,1.96,1.4,0,0,rods,0,72.4 ,1.0 ,Na,OH,0.80 ,3.00 ,165.20 ,10.1016/j.est.2021.102336,70
+689,SnS2 nanorods,50,5,14,1.96,1.4,0,0,rods,0,72.4 ,1.0 ,Na,OH,0.80 ,3.50 ,160.00 ,10.1016/j.est.2021.102336,70
+690,SnS2 nanorods,50,5,14,1.96,1.4,0,0,rods,0,72.4 ,1.0 ,Na,OH,0.80 ,5.00 ,131.30 ,10.1016/j.est.2021.102336,70
+691,SnS2 nanorods,50,5,14,1.96,1.4,0,0,rods,0,72.4 ,1.0 ,Na,OH,0.80 ,10.00 ,122.00 ,10.1016/j.est.2021.102336,70
+692,SnS2 nanorods,50,5,14,1.96,1.4,0,0,rods,0,72.4 ,1.0 ,Na,OH,0.80 ,20.00 ,108.00 ,10.1016/j.est.2021.102336,70
+693,pristine SnS2,50,5,14,1.96,1.4,0,0,nanosheets,0,44.6 ,2.0 ,K,OH,0.60 ,1.00 ,85.40 ,10.1021/acsaem.0c00519,71
+694,pristine SnS2,50,5,14,1.96,1.4,0,0,nanosheets,0,44.6 ,2.0 ,K,OH,0.60 ,2.00 ,47.70 ,10.1021/acsaem.0c00519,71
+695,pristine SnS2,50,5,14,1.96,1.4,0,0,nanosheets,0,44.6 ,2.0 ,K,OH,0.60 ,3.00 ,32.50 ,10.1021/acsaem.0c00519,71
+696,pristine SnS2,50,5,14,1.96,1.4,0,0,nanosheets,0,44.6 ,2.0 ,K,OH,0.60 ,4.00 ,17.00 ,10.1021/acsaem.0c00519,71
+697,pristine SnS2,50,5,14,1.96,1.4,0,0,nanosheets,0,44.6 ,2.0 ,K,OH,0.60 ,5.00 ,14.80 ,10.1021/acsaem.0c00519,71
+698,SnS2-G,50,5,14,1.96,1.4,Graphene,2D nanosheets,nanosheets,coated,115.0 ,2.0 ,K,OH,0.60 ,1.00 ,565.00 ,10.1021/acsaem.0c00519,71
+699,SnS2-G,50,5,14,1.96,1.4,Graphene,2D nanosheets,nanosheets,coated,115.0 ,2.0 ,K,OH,0.60 ,2.00 ,367.00 ,10.1021/acsaem.0c00519,71
+700,SnS2-G,50,5,14,1.96,1.4,Graphene,2D nanosheets,nanosheets,coated,115.0 ,2.0 ,K,OH,0.60 ,3.00 ,288.00 ,10.1021/acsaem.0c00519,71
+701,SnS2-G,50,5,14,1.96,1.4,Graphene,2D nanosheets,nanosheets,coated,115.0 ,2.0 ,K,OH,0.60 ,4.00 ,232.00 ,10.1021/acsaem.0c00519,71
+702,SnS2-G,50,5,14,1.96,1.4,Graphene,2D nanosheets,nanosheets,coated,115.0 ,2.0 ,K,OH,0.60 ,5.00 ,195.00 ,10.1021/acsaem.0c00519,71
+703,SnS2 NPs,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,78.2 ,2.0 ,K,OH,0.45 ,0.30 ,124.79 ,10.1016/j.apsusc.2019.05.116,72
+704,SnS2 NPs,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,78.2 ,2.0 ,K,OH,0.45 ,0.50 ,121.18 ,10.1016/j.apsusc.2019.05.116,72
+705,SnS2 NPs,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,78.2 ,2.0 ,K,OH,0.45 ,1.00 ,106.53 ,10.1016/j.apsusc.2019.05.116,72
+706,SnS2 NPs,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,78.2 ,2.0 ,K,OH,0.45 ,3.00 ,77.42 ,10.1016/j.apsusc.2019.05.116,72
+707,SnS2 NPs,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,78.2 ,2.0 ,K,OH,0.45 ,5.00 ,65.32 ,10.1016/j.apsusc.2019.05.116,72
+708,SnS2 NPs,50,5,14,1.96,1.4,0,0,irregular nanoparticles,0,78.2 ,2.0 ,K,OH,0.45 ,10.00 ,49.45 ,10.1016/j.apsusc.2019.05.116,72
+709,SnS2/RGO_1 NCP,50,5,14,1.96,1.4,RGO,2D nanosheets,irregular nanoparticles,supported,41.8 ,2.0 ,K,OH,0.45 ,0.30 ,273.54 ,10.1016/j.apsusc.2019.05.116,72
+710,SnS2/RGO_1 NCP,50,5,14,1.96,1.4,RGO,2D nanosheets,irregular nanoparticles,supported,41.8 ,2.0 ,K,OH,0.45 ,0.50 ,232.97 ,10.1016/j.apsusc.2019.05.116,72
+711,SnS2/RGO_1 NCP,50,5,14,1.96,1.4,RGO,2D nanosheets,irregular nanoparticles,supported,41.8 ,2.0 ,K,OH,0.45 ,1.00 ,201.33 ,10.1016/j.apsusc.2019.05.116,72
+712,SnS2/RGO_1 NCP,50,5,14,1.96,1.4,RGO,2D nanosheets,irregular nanoparticles,supported,41.8 ,2.0 ,K,OH,0.45 ,3.00 ,155.62 ,10.1016/j.apsusc.2019.05.116,72
+713,SnS2/RGO_1 NCP,50,5,14,1.96,1.4,RGO,2D nanosheets,irregular nanoparticles,supported,41.8 ,2.0 ,K,OH,0.45 ,5.00 ,134.48 ,10.1016/j.apsusc.2019.05.116,72
+714,SnS2/RGO_1 NCP,50,5,14,1.96,1.4,RGO,2D nanosheets,irregular nanoparticles,supported,41.8 ,2.0 ,K,OH,0.45 ,10.00 ,101.31 ,10.1016/j.apsusc.2019.05.116,72
+715,P-WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,16.6 ,2.0 ,K,OH,0.60 ,0.75 ,241.50 ,10.1039/C8NJ00018B,73
+716,P-WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,16.6 ,2.0 ,K,OH,0.60 ,1.00 ,208.13 ,10.1039/C8NJ00018B,73
+717,P-WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,16.6 ,2.0 ,K,OH,0.60 ,2.00 ,177.80 ,10.1039/C8NJ00018B,73
+718,P-WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,16.6 ,2.0 ,K,OH,0.60 ,3.00 ,167.85 ,10.1039/C8NJ00018B,73
+719,P-WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,16.6 ,2.0 ,K,OH,0.60 ,4.00 ,160.06 ,10.1039/C8NJ00018B,73
+720,P-WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,16.6 ,2.0 ,K,OH,0.60 ,5.00 ,155.08 ,10.1039/C8NJ00018B,73
+721,P-WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,16.6 ,2.0 ,K,OH,0.60 ,6.00 ,150.00 ,10.1039/C8NJ00018B,73
+722,P-WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,16.6 ,2.0 ,K,OH,0.60 ,7.00 ,147.58 ,10.1039/C8NJ00018B,73
+723,P-WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,16.6 ,2.0 ,K,OH,0.60 ,10.00 ,139.00 ,10.1039/C8NJ00018B,73
+724,WS2,74,6,6,1.7,1.5,0,0,nanosheets,0,5.2 ,3.0 ,K,OH,0.55 ,1.00 ,261.80 ,10.1016/j.est.2024.111867,74
+725,WS2,74,6,6,1.7,1.5,0,0,nanosheets,0,5.2 ,3.0 ,K,OH,0.55 ,1.50 ,220.90 ,10.1016/j.est.2024.111867,74
+726,WS2,74,6,6,1.7,1.5,0,0,nanosheets,0,5.2 ,3.0 ,K,OH,0.55 ,2.00 ,163.60 ,10.1016/j.est.2024.111867,74
+727,WS2,74,6,6,1.7,1.5,0,0,nanosheets,0,5.2 ,3.0 ,K,OH,0.55 ,2.50 ,86.30 ,10.1016/j.est.2024.111867,74
+728,WS2,74,6,6,1.7,1.5,0,0,nanosheets,0,5.2 ,3.0 ,K,OH,0.55 ,3.00 ,65.40 ,10.1016/j.est.2024.111867,74
+729,WS2,74,6,6,1.7,1.5,0,0,flower-like clusters,0,39.9 ,1.0 ,H,SO4,0.90 ,0.50 ,156.00 ,10.1039/D4CP00206G,75
+730,WS2,74,6,6,1.7,1.5,0,0,flower-like clusters,0,39.9 ,1.0 ,H,SO4,0.90 ,0.80 ,113.30 ,10.1039/D4CP00206G,75
+731,WS2,74,6,6,1.7,1.5,0,0,flower-like clusters,0,39.9 ,1.0 ,H,SO4,0.90 ,1.00 ,95.60 ,10.1039/D4CP00206G,75
+732,WS2,74,6,6,1.7,1.5,0,0,flower-like clusters,0,39.9 ,1.0 ,H,SO4,0.90 ,3.00 ,74.30 ,10.1039/D4CP00206G,75
+733,WS2,74,6,6,1.7,1.5,0,0,flower-like clusters,0,39.9 ,1.0 ,H,SO4,0.90 ,5.00 ,69.60 ,10.1039/D4CP00206G,75
+734,WS2-24,74,6,6,1.7,1.5,0,0,flower-like clusters,0,12.8 ,1.0 ,K,OH,0.80 ,0.25 ,243.80 ,10.1016/j.est.2024.111756,76
+735,WS2-24,74,6,6,1.7,1.5,0,0,flower-like clusters,0,12.8 ,1.0 ,K,OH,0.80 ,0.50 ,236.00 ,10.1016/j.est.2024.111756,76
+736,WS2-24,74,6,6,1.7,1.5,0,0,flower-like clusters,0,12.8 ,1.0 ,K,OH,0.80 ,1.00 ,228.20 ,10.1016/j.est.2024.111756,76
+737,WS2-24,74,6,6,1.7,1.5,0,0,flower-like clusters,0,12.8 ,1.0 ,K,OH,0.80 ,2.00 ,220.00 ,10.1016/j.est.2024.111756,76
+738,WS2-24,74,6,6,1.7,1.5,0,0,flower-like clusters,0,12.8 ,1.0 ,K,OH,0.80 ,5.00 ,208.00 ,10.1016/j.est.2024.111756,76
+739,WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,3.6 ,2.0 ,K,OH,0.60 ,0.20 ,264.80 ,10.1016/j.est.2021.103916,77
+740,WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,3.6 ,2.0 ,K,OH,0.60 ,0.50 ,244.90 ,10.1016/j.est.2021.103916,77
+741,WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,3.6 ,2.0 ,K,OH,0.60 ,1.00 ,220.70 ,10.1016/j.est.2021.103916,77
+742,WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,3.6 ,2.0 ,K,OH,0.60 ,2.00 ,205.50 ,10.1016/j.est.2021.103916,77
+743,WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,3.6 ,2.0 ,K,OH,0.60 ,4.00 ,175.40 ,10.1016/j.est.2021.103916,77
+744,WS2,74,6,6,1.7,1.5,0,0,irregular nanoparticles,0,3.6 ,2.0 ,K,OH,0.60 ,10.00 ,134.50 ,10.1016/j.est.2021.103916,77
+751,WS2,74,6,6,1.7,1.5,0,0,bulk,0,7.2 ,1.0 ,Na,OH,0.80 ,0.50 ,62.20 ,10.1016/j.jpcs.2023.111520,78
+752,WS2,74,6,6,1.7,1.5,0,0,bulk,0,7.2 ,1.0 ,Na,OH,0.80 ,1.00 ,60.20 ,10.1016/j.jpcs.2023.111520,78
+753,WS2,74,6,6,1.7,1.5,0,0,bulk,0,7.2 ,1.0 ,Na,OH,0.80 ,2.00 ,57.00 ,10.1016/j.jpcs.2023.111520,78
+754,WS2,74,6,6,1.7,1.5,0,0,bulk,0,7.2 ,1.0 ,Na,OH,0.80 ,5.00 ,52.60 ,10.1016/j.jpcs.2023.111520,78
+755,WS2,74,6,6,1.7,1.5,0,0,bulk,0,7.2 ,1.0 ,Na,OH,0.80 ,10.00 ,48.60 ,10.1016/j.jpcs.2023.111520,78
+756,P2-WS2,74,6,6,1.7,1.5,0,0,nanosheets,0,13.6 ,1.0 ,Na,OH,0.80 ,0.50 ,143.90 ,10.1016/j.jpcs.2023.111520,78
+757,P2-WS2,74,6,6,1.7,1.5,0,0,nanosheets,0,13.6 ,1.0 ,Na,OH,0.80 ,1.00 ,137.10 ,10.1016/j.jpcs.2023.111520,78
+758,P2-WS2,74,6,6,1.7,1.5,0,0,nanosheets,0,13.6 ,1.0 ,Na,OH,0.80 ,2.00 ,131.00 ,10.1016/j.jpcs.2023.111520,78
+759,P2-WS2,74,6,6,1.7,1.5,0,0,nanosheets,0,13.6 ,1.0 ,Na,OH,0.80 ,5.00 ,124.10 ,10.1016/j.jpcs.2023.111520,78
+760,P2-WS2,74,6,6,1.7,1.5,0,0,nanosheets,0,13.6 ,1.0 ,Na,OH,0.80 ,10.00 ,117.60 ,10.1016/j.jpcs.2023.111520,78
+761,WS2-ACC,74,6,6,1.7,1.5,CNF,1D fibers,flower-like clusters,supported,28.6 ,1.0 ,Na,OH,0.80 ,0.25 ,113.00 ,10.1016/j.jallcom.2024.176784,79
+762,WS2-ACC,74,6,6,1.7,1.5,CNF,1D fibers,flower-like clusters,supported,28.6 ,1.0 ,Na,OH,0.80 ,0.50 ,103.00 ,10.1016/j.jallcom.2024.176784,79
+763,WS2-ACC,74,6,6,1.7,1.5,CNF,1D fibers,flower-like clusters,supported,28.6 ,1.0 ,Na,OH,0.80 ,1.00 ,99.00 ,10.1016/j.jallcom.2024.176784,79
+764,WS2-ACC,74,6,6,1.7,1.5,CNF,1D fibers,flower-like clusters,supported,28.6 ,1.0 ,Na,OH,0.80 ,2.00 ,96.00 ,10.1016/j.jallcom.2024.176784,79
+765,WS2-ACC,74,6,6,1.7,1.5,CNF,1D fibers,flower-like clusters,supported,28.6 ,1.0 ,Na,OH,0.80 ,5.00 ,91.00 ,10.1016/j.jallcom.2024.176784,79
+771,WS2,74,6,6,1.7,1.5,0,0,flower-like clusters,0,3.7 ,1.0 ,K,OH,0.50 ,0.20 ,368.00 ,10.1039/C8TA01047A,80
+772,WS2,74,6,6,1.7,1.5,0,0,flower-like clusters,0,3.7 ,1.0 ,K,OH,0.50 ,1.00 ,360.00 ,10.1039/C8TA01047A,80
+773,WS2,74,6,6,1.7,1.5,0,0,flower-like clusters,0,3.7 ,1.0 ,K,OH,0.50 ,3.00 ,287.00 ,10.1039/C8TA01047A,80
+774,WS2,74,6,6,1.7,1.5,0,0,flower-like clusters,0,3.7 ,1.0 ,K,OH,0.50 ,4.00 ,238.00 ,10.1039/C8TA01047A,80
+775,WS2,74,6,6,1.7,1.5,0,0,flower-like clusters,0,3.7 ,1.0 ,K,OH,0.50 ,8.00 ,177.00 ,10.1039/C8TA01047A,80
+776,WS2,74,6,6,1.7,1.5,0,0,flower-like clusters,0,3.7 ,1.0 ,K,OH,0.50 ,10.00 ,142.00 ,10.1039/C8TA01047A,80
+777,WS2/ACF,74,6,6,1.7,1.5,CNF,1D fibers,flower-like clusters,supported,10.8 ,1.0 ,K,OH,0.50 ,0.20 ,604.00 ,10.1039/C8TA01047A,80
+778,WS2/ACF,74,6,6,1.7,1.5,CNF,1D fibers,flower-like clusters,supported,10.8 ,1.0 ,K,OH,0.50 ,1.00 ,600.00 ,10.1039/C8TA01047A,80
+779,WS2/ACF,74,6,6,1.7,1.5,CNF,1D fibers,flower-like clusters,supported,10.8 ,1.0 ,K,OH,0.50 ,2.00 ,527.00 ,10.1039/C8TA01047A,80
+780,WS2/ACF,74,6,6,1.7,1.5,CNF,1D fibers,flower-like clusters,supported,10.8 ,1.0 ,K,OH,0.50 ,4.00 ,476.00 ,10.1039/C8TA01047A,80
+781,WS2/ACF,74,6,6,1.7,1.5,CNF,1D fibers,flower-like clusters,supported,10.8 ,1.0 ,K,OH,0.50 ,8.00 ,391.00 ,10.1039/C8TA01047A,80
+782,WS2/ACF,74,6,6,1.7,1.5,CNF,1D fibers,flower-like clusters,supported,10.8 ,1.0 ,K,OH,0.50 ,10.00 ,340.00 ,10.1039/C8TA01047A,80
