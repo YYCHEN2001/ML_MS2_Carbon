@@ -1,0 +1,2 @@
+model,R2_train,MAE_train,MAPE_train,RMSE_train,R2_test,MAE_test,MAPE_test,RMSE_test
+TabPFN,0.999,7.72,2.63,12.46,0.986,25.07,7.22,44.53

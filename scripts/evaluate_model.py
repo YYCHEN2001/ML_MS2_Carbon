@@ -66,7 +66,7 @@ class ModelEvaluator:
 
         return pd.DataFrame([metrics])
 
-    def plot_actual_vs_predicted(self, figtitle=None, figpath=None, save_plot=True):
+    def plot_actual_vs_predicted(self, figtitle=None, figpath=None):
         """
         绘制实际值 vs 预测值的散点图：
         1. 设置全局字体为 Arial（不改变全局字号）
@@ -80,50 +80,61 @@ class ModelEvaluator:
         if figtitle is None:
             figtitle = self.model_name
 
+        if figpath is None:
+            figpath = f"../results/figures/avp_{self.model_name}.png"
+
         # **设置全局字体为 Arial**
-        plt.rcParams["font.family"] = "Times New Roman"
+        plt.rcParams["font.family"] = "Arial" # Adjusted for better compatibility
 
         # **创建画布，固定图片大小**
-        plt.figure(figsize=(8, 8))
+        fig, ax = plt.subplots(figsize=(6, 6))  # Increase figure size
 
         # 绘制散点图
-        plt.scatter(self.y_train, self.y_train_pred, color='blue', label='Train set', s=30, alpha=0.6)
-        plt.scatter(self.y_test, self.y_test_pred, color='red', label='Test set', s=30, alpha=0.6)
+        ax.scatter(self.y_train, self.y_train_pred, color='blue', label='Train set', s=30, alpha=0.6)
+        ax.scatter(self.y_test, self.y_test_pred, color='red', label='Test set', s=30, alpha=0.6)
 
         # **固定坐标轴范围**
-        plt.xlim(-100, 2000)
-        plt.ylim(-100, 2000)
+        ax.set_xlim(-100, 2000)  # Adjusted to ensure no negative values
+        ax.set_ylim(-100, 2000)  # Adjusted to ensure no negative values
 
-        # **确保回归线贯穿整个图**
-        plt.plot([-100, 2000], [-100, 2000], 'k--', lw=2, label='Regression Line')
+        # **生成回归线 y = x**
+        x_vals = np.linspace(-100, 2000, 100)
+        y_vals = x_vals  # y = x
+
+        # **绘制回归线**
+        ax.plot(x_vals, y_vals, 'k--', lw=2, label='Regression Line')
+
+        # **刻度线加粗加长**
+        ax.tick_params(axis='both', which='both', length=10, width=2, colors='black')
+
+        # **不显示网格线**
+        ax.grid(False)
 
         # **设置刻度，每隔 500**
         major_ticks = np.arange(0, 2001, 500)
-        plt.xticks(major_ticks, fontweight='semibold', fontsize=20)  # 坐标轴刻度字号 16
-        plt.yticks(major_ticks, fontweight='semibold', fontsize=20)
+        ax.set_xticks(major_ticks)
+        ax.set_yticks(major_ticks)
 
-        # **刻度线加粗加长**
-        plt.tick_params(axis='both', which='major', length=10, width=2)
+        # **设置刻度线和刻度标签的大小**
+        ax.tick_params(axis='both', which='major', length=5, width=2, labelsize=16)  # Increased size
 
         # **设置标题和轴标签**
-        plt.title(figtitle, fontsize=28, fontweight='semibold', pad=10)
-        plt.xlabel("Actual Values (F g\N{SUPERSCRIPT MINUS}\N{SUPERSCRIPT ONE})", fontsize=24, fontweight='semibold')
-        plt.ylabel("Predicted Values (F g\N{SUPERSCRIPT MINUS}\N{SUPERSCRIPT ONE})", fontsize=24, fontweight='semibold')
+        ax.set_title(figtitle, fontsize=24)  # Increased font size
+        ax.set_xlabel(r"Actual Values ($F \, g^{-1}$)", fontsize=20)
+        ax.set_ylabel(r"Predicted Values ($F \, g^{-1}$)", fontsize=20)
 
         # **设置图例**
-        plt.legend(frameon=False, loc='upper left', prop={'weight': 'semibold', 'size': 20})
+        ax.legend(frameon=False, loc='upper left', fontsize=16)  # Increased font size
 
         # **边框加粗**
-        for spine in plt.gca().spines.values():
+        for spine in ax.spines.values():
             spine.set_visible(True)
             spine.set_linewidth(2)
             spine.set_color('black')
 
         # **保存或显示**
-        if save_plot and figpath:
-            plt.savefig(figpath, bbox_inches='tight', transparent=True, dpi=300)
-
+        plt.tight_layout()
+        plt.savefig(figpath, bbox_inches='tight', transparent=True, dpi=300)
         plt.show()
-
 
 

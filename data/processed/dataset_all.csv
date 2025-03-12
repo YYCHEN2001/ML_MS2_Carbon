@@ -518,8 +518,8 @@ False,False,False,False,True,False,False,False,False,derived carbon-based,3D por
 False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,hollow morph,coated,24.0,2.0,K,OH,0.4,10.0,1280.0
 False,False,False,False,True,False,False,False,False,derived carbon-based,3D porous,hollow morph,coated,24.0,2.0,K,OH,0.4,15.0,1122.0
 False,False,False,False,False,True,False,False,False,NoCP,NoCP,bulk,NoCP,32.0,2.0,K,OH,0.65,1.0,814.0
-False,False,False,False,False,True,False,False,False,NoCP,NoCP,bulk,NoCP,32.0,2.0,K,OH,0.65,1.0,638.0
-False,False,False,False,False,True,False,False,False,NoCP,NoCP,bulk,NoCP,32.0,2.0,K,OH,0.65,1.0,515.0
+False,False,False,False,False,True,False,False,False,NoCP,NoCP,bulk,NoCP,32.0,2.0,K,OH,0.65,2.0,638.0
+False,False,False,False,False,True,False,False,False,NoCP,NoCP,bulk,NoCP,32.0,2.0,K,OH,0.65,3.0,515.0
 False,False,False,False,False,True,False,False,False,G-based,2D,bulk,supported,59.0,2.0,K,OH,0.65,1.0,1238.0
 False,False,False,False,False,True,False,False,False,G-based,2D,bulk,supported,59.0,2.0,K,OH,0.65,2.0,784.0
 False,False,False,False,False,True,False,False,False,G-based,2D,bulk,supported,59.0,2.0,K,OH,0.65,3.0,565.0
