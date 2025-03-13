@@ -17,23 +17,23 @@ stratify_column = data_encoded['target_class']
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=21, stratify=stratify_column)
 
-# 初始化TabPFN回归模型
-model = TabPFNRegressor()
-
-# 训练模型
-model.fit(X_train, y_train)
-
-# 预测
-y_train_pred = model.predict(X_train)
-y_test_pred = model.predict(X_test)
-
-evaluator = ModelEvaluator(model_name='TabPFN', y_train=y_train, y_train_pred=y_train_pred, y_test=y_test, y_test_pred=y_test_pred)
-df_metrics = evaluator.metrics_to_dataframe()
-df_metrics.to_csv('../results/reports/metrics_TabPFN.csv', index=False)
-print(df_metrics)
-
-figpath = '../results/figures/avp_TabPFN.png'
-evaluator.plot_actual_vs_predicted(figpath=figpath)
+# # 初始化TabPFN回归模型
+# model = TabPFNRegressor()
+#
+# # 训练模型
+# model.fit(X_train, y_train)
+#
+# # 预测
+# y_train_pred = model.predict(X_train)
+# y_test_pred = model.predict(X_test)
+#
+# evaluator = ModelEvaluator(model_name='TabPFN', y_train=y_train, y_train_pred=y_train_pred, y_test=y_test, y_test_pred=y_test_pred)
+# df_metrics = evaluator.metrics_to_dataframe()
+# df_metrics.to_csv('../results/reports/metrics_TabPFN.csv', index=False)
+# print(df_metrics)
+#
+# figpath = '../results/figures/avp_TabPFN.png'
+# evaluator.plot_actual_vs_predicted(figpath=figpath)
 
 # Z, Period 与 CR 的相关系数过高，特征冗余
 # 删除 Z, Period

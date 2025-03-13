@@ -67,16 +67,6 @@ class ModelEvaluator:
         return pd.DataFrame([metrics])
 
     def plot_actual_vs_predicted(self, figtitle=None, figpath=None):
-        """
-        绘制实际值 vs 预测值的散点图：
-        1. 设置全局字体为 Arial（不改变全局字号）
-        2. 图片大小固定为 (12,12)
-        3. x 和 y 轴固定范围为 [0, 2000]
-        4. 刻度严格每 500 一个
-        5. 回归线 y = x 贯穿整个图表
-        6. 刻度线加长加粗，边框加粗
-        7. 仅对该图设置字号，不影响全局字号
-        """
         if figtitle is None:
             figtitle = self.model_name
 
@@ -87,11 +77,12 @@ class ModelEvaluator:
         plt.rcParams["font.family"] = "Arial" # Adjusted for better compatibility
 
         # **创建画布，固定图片大小**
-        fig, ax = plt.subplots(figsize=(6, 6))  # Increase figure size
+        fig, ax = plt.subplots(figsize=(6, 6), dpi=300)  # Increase figure size
+        # fig.suptitle(figtitle, fontsize=24, fontname="Arial", y=0.98)
 
         # 绘制散点图
-        ax.scatter(self.y_train, self.y_train_pred, color='blue', label='Train set', s=30, alpha=0.6)
-        ax.scatter(self.y_test, self.y_test_pred, color='red', label='Test set', s=30, alpha=0.6)
+        ax.scatter(self.y_train, self.y_train_pred, color=(30/255, 144/255, 255/255), label='Train set', s=50, alpha=0.5)
+        ax.scatter(self.y_test, self.y_test_pred, color=(255/255, 144/255, 200/255), label='Test set', s=50, alpha=0.5)
 
         # **固定坐标轴范围**
         ax.set_xlim(-100, 2000)  # Adjusted to ensure no negative values
@@ -116,12 +107,12 @@ class ModelEvaluator:
         ax.set_yticks(major_ticks)
 
         # **设置刻度线和刻度标签的大小**
-        ax.tick_params(axis='both', which='major', length=5, width=2, labelsize=16)  # Increased size
+        ax.tick_params(axis='both', which='major', length=5, width=2, labelsize=18)  # Increased size
 
         # **设置标题和轴标签**
-        ax.set_title(figtitle, fontsize=24)  # Increased font size
-        ax.set_xlabel(r"Actual Values ($F \, g^{-1}$)", fontsize=20)
-        ax.set_ylabel(r"Predicted Values ($F \, g^{-1}$)", fontsize=20)
+        ax.set_title(figtitle, fontsize=24, pad=10)  # Increased font size
+        ax.set_xlabel("Actual Values", fontsize=24, labelpad=10)  # Increased font size
+        ax.set_ylabel("Predicted Values", fontsize=24)
 
         # **设置图例**
         ax.legend(frameon=False, loc='upper left', fontsize=16)  # Increased font size
@@ -134,7 +125,7 @@ class ModelEvaluator:
 
         # **保存或显示**
         plt.tight_layout()
-        plt.savefig(figpath, bbox_inches='tight', transparent=True, dpi=300)
+        plt.savefig(figpath, transparent=False)
         plt.show()
 
 

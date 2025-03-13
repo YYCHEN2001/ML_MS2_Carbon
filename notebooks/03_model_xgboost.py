@@ -22,21 +22,21 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 # optuna 自动调参
 # optuna_xgb(X_train, y_train, n_trials=100, model_save_path="../models/best_xgb.pkl")
 
-# 加载最佳模型
-best_model = joblib.load("../models/best_xgb.pkl")
-
-# 预测
-y_train_pred = best_model.predict(X_train)
-y_test_pred = best_model.predict(X_test)
-
-# 评估
-evaluator = ModelEvaluator(model_name='XGBoost', y_train=y_train, y_train_pred=y_train_pred, y_test=y_test, y_test_pred=y_test_pred)
-df_metrics = evaluator.metrics_to_dataframe()
-df_metrics.to_csv('../results/reports/metrics_XGBoost.csv', index=False)
-print(df_metrics)
-
-figpath = '../results/figures/avp_XGBoost.png'
-evaluator.plot_actual_vs_predicted(figpath=figpath)
+# # 加载最佳模型
+# best_model = joblib.load("../models/best_xgb.pkl")
+#
+# # 预测
+# y_train_pred = best_model.predict(X_train)
+# y_test_pred = best_model.predict(X_test)
+#
+# # 评估
+# evaluator = ModelEvaluator(model_name='XGBoost', y_train=y_train, y_train_pred=y_train_pred, y_test=y_test, y_test_pred=y_test_pred)
+# df_metrics = evaluator.metrics_to_dataframe()
+# df_metrics.to_csv('../results/reports/metrics_XGBoost.csv', index=False)
+# print(df_metrics)
+#
+# figpath = '../results/figures/avp_XGBoost.png'
+# evaluator.plot_actual_vs_predicted(figpath=figpath)
 
 # Z, Period 与 CR 的相关系数过高，特征冗余
 # 删除 Z, Period
