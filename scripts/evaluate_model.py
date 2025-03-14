@@ -81,8 +81,8 @@ class ModelEvaluator:
         # fig.suptitle(figtitle, fontsize=24, fontname="Arial", y=0.98)
 
         # 绘制散点图
-        ax.scatter(self.y_train, self.y_train_pred, color=(30/255, 144/255, 255/255), label='Train set', s=50, alpha=0.5)
-        ax.scatter(self.y_test, self.y_test_pred, color=(255/255, 144/255, 200/255), label='Test set', s=50, alpha=0.5)
+        ax.scatter(self.y_train, self.y_train_pred, color="blue", label='Train set', s=50, alpha=0.3)
+        ax.scatter(self.y_test, self.y_test_pred, color="red", label='Test set', s=50, alpha=0.3)
 
         # **固定坐标轴范围**
         ax.set_xlim(-100, 2000)  # Adjusted to ensure no negative values
